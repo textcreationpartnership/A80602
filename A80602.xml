@@ -1,0 +1,2894 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The scoffer scoffed the second part. Being certain select dialogues of a merry wagg of antiquity. Newly put into English fustian, for the consolation of those that had rather laugh and be merry, then be merry and wise.</title>
+            <author>Cotton, Charles, 1630-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80602</idno>
+            <idno type="STC">Wing C6398C</idno>
+            <idno type="STC">ESTC R231666</idno>
+            <idno type="EEBO-CITATION">99899870</idno>
+            <idno type="PROQUEST">99899870</idno>
+            <idno type="VID">137124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2463:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The scoffer scoffed the second part. Being certain select dialogues of a merry wagg of antiquity. Newly put into English fustian, for the consolation of those that had rather laugh and be merry, then be merry and wise.</title>
+                  <author>Cotton, Charles, 1630-1687.</author>
+               </titleStmt>
+               <extent>[4], 20, 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Goldin, in Rainbow-Court, in Aldersgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Virgil --  Parodies, imitations, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137124:1" rendition="simple:additions"/>
+            <p>THE SCOFFER SCOFFED,</p>
+            <p>THE SECOND PART.</p>
+            <p>Being certain Select DIALOGUES, Of a Merry Wagg of Antiquity.</p>
+            <p>Newly put into Engliſh Fuſtian, for the Con<g ref="char:EOLhyphen"/>ſolation of thoſe that had rather Laugh and be Merry, then be Merry and Wiſe.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Edward Goldin,</hi> in <hi>Rainbow-Court,</hi> in <hi>Alderſgate-ſtreet,</hi> 1684.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:137124:2"/>
+            <pb facs="tcp:137124:2"/>
+            <head>THE Epiſtle to the Reader.</head>
+            <p>HE was a ſtout Man, who firſt ventur'd to Eat an <hi>Oyſter;</hi> was the ſaying of a <hi>Crown'd Head:</hi> And without all doubt, 'tis as True, as Witty: for all Men know, that every Work is moſt difficult in the Commencement; and that 'tis eaſier to Imitate, than Invent: Tho I never ſaw any thing of that Nature, but what came very ſhort of its Original: 'tis like the fancy'd Ghoſt of a departed Author, ſo much unlike, and ſo wrapt up in its infernal Accoutrements, ſo very Thin, and Pale, ſo Ghastly Horrid; that every man who ſees, and reads it, is as much Scar'd, and Frighted, as if he had been <hi>Bug-bear'd</hi> by ſome <hi>Stygian Spectre;</hi> Or as the Celeſtial Author of the <hi>Winged-Won<g ref="char:EOLhyphen"/>der-Working-Angels</hi> has it; As if a man had enjoy'd a <hi>Sucubus</hi> in the ſhape of a Handſome <hi>Woman.</hi> For which reaſon, I ſuppoſe a late Au<g ref="char:EOLhyphen"/>thor call'd his <hi>Burleſque, Butlers Ghoſt;</hi> and certainly 'twas a proper Name for it too; for I believe, it as much deſerves to be Entituled the <hi>Fourth</hi> part of <hi>Hudibras,</hi> as the <hi>Pilgrims Progreſs</hi> merits to be the <hi>Fifth,</hi> to that Number; and this I ſay (not to leſſen the Credit of the Ghoſt, or its Author) but becauſe no man can do too much Honour, to the me<g ref="char:EOLhyphen"/>mory of the Ingenious, and Learned, though (much to be Lamented) Un<g ref="char:EOLhyphen"/>fortunate Mr. <hi>Butler</hi>
+            </p>
+            <p>And next to him, I can't but mention the Admir'd Mr. <hi>Cotton,</hi> whoſe <hi>Scarronides</hi> are more to be valu'd, than all the <hi>Engliſh Burleſque</hi> now Extant, ſetting Mr. <hi>Butlers</hi> ſelf aſide: And ſince my doing of <hi>Lucian,</hi> I have ſeen a little Book Intituled, the <hi>Scoffer Scoft</hi> (as I believe) written by the ſame <hi>Author;</hi> being <hi>Lucian's</hi> Dialogues of the <hi>God's,</hi> in the ſame <hi>Bur<g ref="char:EOLhyphen"/>leſque:</hi> And truly had I ſeen it before, I ſhou'd not have ventur'd upon a<g ref="char:EOLhyphen"/>ny of the <hi>Dialogues</hi> under that Title. Knowing all that I cou'd expect from ſo doing, muſt be only to publiſh to the World, my Dulneſs; and draw a weak Copy, after ſo great a Maſter, without I cou'd have found ſome unintelligible Title to have aton'd for the Preſumption (like that of the before-mention'd Ghoſt); nor can I now be contented (being much delighted with things of that Nature) without begging the Favour of Mr. <hi>Cotton,</hi> to be ſo diſtinguiſhed: Though perhaps ſome <hi>Phariſaical Criticks</hi> may object againſt the Reaſonableneſs of it; as if 'tis impoſſible for a man, while Living, to Fright the World with his wandring <hi>Ghoſt:</hi> But ſince I deſire to be ſo Honour'd, I hope he will grant me the favour, and the World forgive me; for a <hi>Ghoſt</hi> is a <hi>Ghoſt</hi> ſtill.</p>
+            <p>But now, perhaps it may be expected I ſhould ſay ſomething in behalf of my own; but in the firſt place, I don't think they deſerve it: 'Tis your Buſineſs kind <hi>Reader,</hi> if ye like 'em: If ye Refuſe it, I ſhall be content with the Pleaſure I took in Writing 'em; though I believe they would have pleas'd better, had the <hi>Parentheſis</hi> in the <hi>Title,</hi> been left out; eſpecially thoſe who don't underſtand a word of that Antient <hi>Language;</hi> but however, you ſee I am modest, as to my <hi>Learning.</hi> But the <hi>Bawdy</hi> of the <hi>Firſt Part</hi> has given Offence (I hear) to ſome of our Aged <hi>Ingenioſo's,</hi> though they at the ſame time, are not wholly guiltleſs in things of the like Nature; but grant<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:137124:3"/>there is a ſprinkling of it in ſome of the <hi>Firſt Dialogues,</hi> I hope it is more excuſable in Youth, and Gingling <hi>Burleſque,</hi> than in Argumen<g ref="char:EOLhyphen"/>tal <hi>Dialoguing</hi> Proſe done by Experienc'd Age: For ſuch is <hi>Lucians</hi> Works, and ſuch was <hi>Lucian.</hi>
+            </p>
+            <p>Perhaps it might now ſeem reaſonable for me, to give ye an account of <hi>Lucian</hi> and his Works; but for two Reaſons I decline it. <hi>Firſt,</hi> Be<g ref="char:EOLhyphen"/>cauſe the Illiterate don't deſerve it: And <hi>Secondly,</hi> The Learned, (if I ſhou'd) wou'd find nothing therein (to them) <hi>Novel:</hi> But if any of 'em deſire it, I muſt refer 'em to the late Learned and Ingenious Tranſlater
+<note n="*" place="margin">
+                  <hi>Mr.</hi> Ferrand Spence.</note>; where (if they can underſtand <hi>Engliſh</hi>) they may be abun<g ref="char:EOLhyphen"/>dantly ſatisfied.</p>
+            <p>And now give me leave to tell you, I did at the firſt deſign a Dedica<g ref="char:EOLhyphen"/>tion, to theſe <hi>Dialogues:</hi> But for ſome Reaſons I met with in the Interval, I thought it wou'd not be worth my while. <hi>Firſt,</hi> Becauſe the <hi>Patrons</hi> of this Age, the leſs they deſerve; the more they expect to be Complemented. And tho <hi>Speed</hi> and <hi>Baker</hi> are not able to furniſh one with <hi>Hiſtory</hi> e<g ref="char:EOLhyphen"/>nough to entail 'em, to an honeſt Family; 'tis impoſſible to pleaſe, with<g ref="char:EOLhyphen"/>out two or three Pages in Praiſe of their Anceſtors; when all the help too a man has for ſuch a Task, is only to be found in ſuch like Authors. For another Reaſon too, becauſe if the Writer be a man, who pretends to <hi>Po<g ref="char:EOLhyphen"/>etry,</hi> and has a little more ſenſe, than the drudging <hi>Man</hi> of <hi>Money</hi> can expreſs over a Tedious Quart of <hi>Claret;</hi> 'Tis ten to one but he muſt be forc'd to take up with an Old <hi>Proverb</hi> for his pains, <hi>Poet</hi> and <hi>Pennyleſs:</hi> And if he be not ſo at that time, 'tis as many more, to nothing; but his <hi>Patron</hi> ſhall endeavour to make him ſo for the future.</p>
+            <p>And in the next place, for a Story (ſomething like this) a Friend told me the other day.</p>
+            <p>A Young Scribler in <hi>Rhyme,</hi> after ſome Pains and Study, having finiſh'd a ſhort <hi>Poem</hi> on the Times; thought it convenient, as well as faſhionable, to Dedicate it to one of his Old Bottle-Companions, one that he had ſpent much Money with in all ſort of Faſhionable Converſation the Town cou'd allow, and was as frolickſomly Vicious a man, as one wou'd wiſh to drink withal. Many Complements he gave him, and told him he was as Diſcreet and Judicous, as a Man wou'd deſire to be. But ſee the effects of things of this Nature; This <hi>Patron</hi> of wit, (being a Man of diſcerning faculties) in heat of <hi>Wine,</hi> (at which time ſome People are very <hi>Witty</hi>) was pleas'd to tell one of his Female Conveniencies, That this little <hi>Spark</hi> of a <hi>Poet,</hi> did expect a Preſent for his <hi>Dedication;</hi> but he ſwore, he ſhou'd be bawk'd: for, for that Reaſon, he wou'd not ſo much as give him a Bottle of <hi>Wine,</hi> or ever drink with him again. A mighty loſs, without all doubt! which puts me in mind of a Piece of <hi>Modern Burleſque.</hi>
+               <q>
+                  <l>Like play for Nought, the Game to loſe;</l>
+                  <l>Or take you This, or That; or Chuſe:</l>
+                  <l>Or like to One, (tho' not to blame)</l>
+                  <l>Who Limps and Haults before he's Lame.</l>
+               </q> But this I fear is Tyreſome, being a little out of the Method <hi>(Kind Rea<g ref="char:EOLhyphen"/>der)</hi> You were us'd to be Treated in; but if I can, I'le make you amends ſome other time; upon Condition, you'l pardon me now.</p>
+            <closer>
+               <salute>And ſo I humbly take my leave.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="issue">
+            <pb n="1" facs="tcp:137124:3"/>
+            <head>LUCIAN. </head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between MERCURY <hi>and the</hi> SUN.</head>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <lg type="triplet">
+                     <l>TIS the command, Sir Sun of <hi>Jove,</hi>
+                     </l>
+                     <l>That for three days you do not move</l>
+                     <l>To lengthen out a night for Love.</l>
+                  </lg>
+                  <l>And let the hours that wait on you,</l>
+                  <l>Unharneſs all your Horſes too;</l>
+                  <l>Then put your Candle out, and go</l>
+                  <l>To bed, for <hi>Jove</hi> will have it ſo.</l>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <l>What is't that I have done, that he</l>
+                  <l>Shou'd thus reſolve to puniſh me?</l>
+                  <l>That Gammer Night ſhou'd bear the ſway,</l>
+                  <l>And triumph o're her Lord the Day?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>That's not the thing, nor is't of ſtate,</l>
+                  <l>His buſineſs is of greater weight.</l>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <l>Where is he now? don't tell me falſe.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>In <hi>Boeotia</hi> with little <hi>Alce.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <l>Will not one Night allay his fires,</l>
+                  <l>And cool his lecherous Deſires?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <lg type="triplet">
+                     <l>'Tis not for that, but to compleat,</l>
+                     <l>And make a Heroe ſtrong and great,</l>
+                     <l>Whom he did t'other day beget.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Sol.</speaker>
+                  <l>Much Joy to him, but <hi>Mercury,</hi>
+                  </l>
+                  <l>I'le tell you now 'twixt you and I,</l>
+                  <l>Such idle things were never done</l>
+                  <l>When good old <hi>Saturn</hi> wore the Crown,</l>
+                  <l>He ne're ſtole out in all his life</l>
+                  <l>To occupy his Neighbours Wife,</l>
+                  <l>But always kept to <hi>Rhea</hi>'s Coney,</l>
+                  <l>And thought her fit to change his Money.</l>
+                  <l>Day was day the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> paltry ſcurvy</l>
+                  <l>Punk the World turn'd topſy turvy;</l>
+                  <l>For want of Exerciſing too</l>
+                  <l>My Horſes, they will Reſtive grow.</l>
+                  <l>Briers and Thorns will choak the way,</l>
+                  <l>And men will languiſh for the day;</l>
+                  <l>And all to make ſome bluſtering fool.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>Hold now, leſt he your courage cool.</l>
+                  <l>Mean time as I was bid I'le go</l>
+                  <l>And charge the Moon to ſaunter too,</l>
+                  <l>That ſhe abandon not Mankind,</l>
+                  <l>Leſt they the alteration find.</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <pb n="2" facs="tcp:137124:4"/>
+               <head>A Dialogue between <hi>Vulcan</hi> and <hi>Jupiter.</hi>
+               </head>
+               <sp>
+                  <speaker>Vulcan.</speaker>
+                  <l>HERE is the Ax you bid me get,</l>
+                  <l>What am I now to do with it?</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Strike hard my head, nay do not wonder,</l>
+                  <l>And cleave my aching Jaws aſunder.</l>
+               </sp>
+               <sp>
+                  <speaker>Vul.</speaker>
+                  <l>Sure yo'ave a mighty mind to ſee</l>
+                  <l>If I am mad, then laugh at me.</l>
+                  <l>But prethee <hi>Jupiter</hi> don't joke,</l>
+                  <l>And tell me what you mean by th'ſtroke.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>You idle ſot, to cleave my ſcull,</l>
+                  <l>And if you do refuſe it, fool!</l>
+                  <l>I'le ſwinge you off by fatal <hi>Styx!</hi>
+                  </l>
+                  <l>Strike hard, and leave your fooliſh tricks.</l>
+                  <l>For my poor head beats like a Tabor,</l>
+                  <l>And achs as if I were in Labor.</l>
+               </sp>
+               <sp>
+                  <speaker>Vul.</speaker>
+                  <l>Take heed, for faith you now command</l>
+                  <l>What I did never underſtand.</l>
+                  <l>You'd better get ſome Midwife do it,</l>
+                  <l>Leſt you repent, and after rue it.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Strike boldly Dog, and do your beſt,</l>
+                  <l>And then let me alone for th' reſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Vul.</speaker>
+                  <l>I'le do't 'cauſe you muſt be obey'd,</l>
+                  <l>Though it was ne're my way of Trade.</l>
+                  <l>Have at your head! uds Death and Hell!</l>
+                  <l>What's this I ſee? 'tis wonderful!</l>
+                  <l>Well you might have ſuch ſwinging Pains,</l>
+                  <l>While ſuch a Wench was in your Brains.</l>
+                  <l>See how ſhe capers o're the ſtools,</l>
+                  <l>As if ſhe'd been at Dancing-ſchools.</l>
+                  <l>And how ſhe brandiſhes her ſpear,</l>
+                  <l>She almoſt makes me ſhake with fear.</l>
+                  <l>Well you might be ſo croſs of late,</l>
+                  <l>When ſuch a Girl was in your Pate.</l>
+                  <l>s'Wounds! ſhe's a ſtrapper of her years,</l>
+                  <l>How brisk and handſom ſhe appears;</l>
+                  <l>She's very tall and Blew-ey'd, but</l>
+                  <l>Her Helmet makes her a pretty ſlut.</l>
+                  <l>Give her to me, I prethee, <hi>Jove,</hi>
+                  </l>
+                  <l>She's big enough, for I'm in Love.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>With all my heart, I am content,</l>
+                  <l>But ſhe will never give conſent:</l>
+                  <l>For ſhe has vow'd a ſingle Life,</l>
+                  <l>And hates the very name of Wife.</l>
+               </sp>
+               <sp>
+                  <speaker>Vul.</speaker>
+                  <l>Let me alone, ſince I have got</l>
+                  <l>Your word, I'le try her on the ſpot.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Berul'd by me. and quit the Place,</l>
+                  <l>She'l ne're indure thy ſooty Face.</l>
+               </sp>
+            </div>
+         </div>
+         <div n="2" type="issue">
+            <pb n="3" facs="tcp:137124:4"/>
+            <head>
+               <hi>Numb.</hi> 2.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between NEPTUNE <hi>and</hi> MERCURY.</head>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>I'Deſpeak with <hi>Jove,</hi> Coz. <hi>Mercury:</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>He's buſie, ſir,</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>Tell him 'tis I.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>Pray be not now s' importunate;</l>
+                  <l>If you wou'd ſee him, you muſt wait.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>Where is he now? is he with's Wife?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>No, he's not there upon my life.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>Is he with's Boy that he does love?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>You'r much miſtaken ſtill in <hi>Jove.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>Where then? and what a doing, tell?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>Why truly he's not very well.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>Phoogh! that's a Sham, come tell me true,</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>I am aſham'd to tell it you.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>Aſham'd to tell it to your kin?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>I beg your pardon, he lies In.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>How! was he an Hermaphrodite?</l>
+                  <l>I ne're perceiv'd it by this Light,</l>
+                  <l>Nor did his Belly big appear.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>No, he had ne're much aching there.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <lg type="triplet">
+                     <l>Was it where he <hi>Minerva</hi> bred?</l>
+                     <l>Who from his brain was brought to bed,</l>
+                     <l>He has a Teeming Logger-head.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>No, he in's thigh the child did bear:</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>How! is he fruitful ev'ry where?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>
+                     <hi>Juno</hi> being fill'd with Jealouſie,</l>
+                  <l>Did put a Trick on <hi>Semele,</hi>
+                  </l>
+                  <l>Perſwading her, pray mind the Story,</l>
+                  <l>To lie with <hi>Jove</hi> in all his Glory,</l>
+                  <l>Who being poſſeſs'd with fierce Deſire,</l>
+                  <l>Strait ſet the Room and her on fire.</l>
+                  <l>For when (you know) he's arm'd with Thunder,</l>
+                  <l>He does deſtroy things to a wonder.</l>
+                  <l>All he cou'd do, things were ſo ſpoil'd,</l>
+                  <l>Was juſt the ſaving of the child;</l>
+                  <l>For which he in his thigh made room,</l>
+                  <l>When bloody hot it dropt from th' Womb.</l>
+                  <pb n="4" facs="tcp:137124:5"/>
+                  <l>And now he's once more free again,</l>
+                  <l>But wonderfully weak with pain:</l>
+                  <l>Or as you 'ave often heard it ſed,</l>
+                  <l>He's very finely brought a bed.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>Now I cou'd laugh until I burſt,</l>
+                  <l>But pray where muſt the child be nur'ſt?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>Why I have carry'd him to <hi>Nyſa</hi>
+                  </l>
+                  <l>To be brought up (pray mind what I ſay)</l>
+                  <l>The Nymphs of him great care will take,</l>
+                  <l>And uſe him well for's Fathers ſake.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>And <hi>Jove</hi> after this mighty Do,</l>
+                  <l>Is Father to't, and Mother too?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>Yes, yes, but I've no leiſure now</l>
+                  <l>To let you any further know;</l>
+                  <l>For I muſt go and buy ſome ſtrings,</l>
+                  <l>And other neceſſary Things</l>
+                  <l>To bind him up, ſome <hi>Harts-horn</hi> Jelly,</l>
+                  <l>Caudle and what is good for's belly;</l>
+                  <l>To nouriſh him, poor <hi>Mercury!</hi>
+                  </l>
+                  <l>Thou muſt I fear, his dry-Nurſe be.</l>
+                  <l>With other things unknown to you,</l>
+                  <l>So honeſt Nuncle <hi>Nep.</hi> adieu.</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>A Dialogue between the River <hi>Enipeus</hi> &amp; <hi>Neptune.</hi>
+               </head>
+               <sp>
+                  <speaker>Enip.</speaker>
+                  <l>FAith <hi>Neptune</hi> you were much to blame,</l>
+                  <l>T'aſſume my ſhape and take my name:</l>
+                  <l>T' abuſe my Miſtreſs, faith you were.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>No, rather you were too ſevere,</l>
+                  <l>You were unjuſt unto her love,</l>
+                  <l>Since ſhe ſo very kind did prove:</l>
+                  <l>Which bred in her a thouſand fears,</l>
+                  <l>And overwhelm'd her ſtill in tears,</l>
+                  <l>For on your banks ſhe ev'ry day;</l>
+                  <l>Th' Oblations of her love did pay.</l>
+               </sp>
+               <sp>
+                  <speaker>Enip.</speaker>
+                  <l>And muſt you therefore cheat her thus?</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>'Twas pity made me Courteous,</l>
+                  <l>Beſides I pleas'd the Beauteous ſhe.</l>
+               </sp>
+               <sp>
+                  <speaker>Enip.</speaker>
+                  <l>'Tis true becauſe ſhe thought 'twas me:</l>
+                  <l>But when ſhe found out who 'twas Acted,</l>
+                  <l>She'd almoſt like t'have run diſtracted;</l>
+                  <l>Beſides I'm mad that any he,</l>
+                  <l>Shou'd Reap the Joys belong to me.</l>
+               </sp>
+               <sp>
+                  <speaker>Nep.</speaker>
+                  <l>'Tis you'r to blame, and wond'rous baſe</l>
+                  <l>T'abuſe ſo fine, ſo ſweet a face;</l>
+                  <l>Therefore for th' future learn t' improve,</l>
+                  <l>The ſhort, but Pretious hours of Love.</l>
+               </sp>
+               <byline>LUCIAN.</byline>
+            </div>
+            <div type="colophon">
+               <p>Printed for <hi>Charles Corlet</hi> at the <hi>Oxford</hi> Arms in <hi>Warwick lane.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="3" type="issue">
+            <pb n="5" facs="tcp:137124:5"/>
+            <head>
+               <hi>Numb.</hi> 3.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between MENIPPUS and TROPHONIUS in the Preſence of AMPHILOCTUS.</head>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>HOw comes it, ſince yo'ave loſt your breath,</l>
+                  <l>And falln into the hands of Death,</l>
+                  <l>That idle, ſilly, Country People,</l>
+                  <l>Shou'd build to you a Church and Steeple;</l>
+                  <l>And then, as if 'twere ſuch a Prize</l>
+                  <l>As to a God, t'you ſacrifice.</l>
+               </sp>
+               <sp>
+                  <speaker>Tro.</speaker>
+                  <l>Am (I d'you think) Accountable</l>
+                  <l>Forth' fooliſh Whimſies of the Rabble?</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>Well, but the People, ne're had don it.</l>
+                  <l>If you had not put them upon it,</l>
+                  <l>You made your ends, and intereſt of it,</l>
+                  <l>And told 'em all, you were a Prophet.</l>
+                  <l>And like a true Diſſenter, ſtrove</l>
+                  <l>To break th' Allegiance, ſworn to <hi>Jove.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Tro.</speaker>
+                  <l>It does behove, <hi>Amphiloctus,</hi>
+                  </l>
+                  <l>(Whom you ſee now is here with us,)</l>
+                  <l>To give an Anſwer unto you;</l>
+                  <l>And tell you all the Meaning too,</l>
+                  <l>For my part 'tis well known I can,</l>
+                  <l>Prove I am ſomething more than man:</l>
+                  <l>And can foretell (like any thing,)</l>
+                  <l>And am, or wou'd be more than King.</l>
+                  <l>No <hi>Heroe</hi> e're had ſuch a Name,</l>
+                  <l>I was the firſt i'th' Rank of fame,</l>
+                  <l>And ever ſcorn'd to Crouch, or bend</l>
+                  <l>To Father, Unkle, Wife, or Friend.</l>
+                  <l>But one wou'd think, by what you ſay,</l>
+                  <l>You'd ne'er bin in <hi>Labadia:</hi>
+                  </l>
+                  <l>For there I ne're cou'd walk abroad,</l>
+                  <l>But ſtill attended by a Crowd,</l>
+                  <l>Hollowing, and hooping as they went,</l>
+                  <l>As if they'd rend the Firmament.</l>
+                  <l>Long live <hi>Trophonius!</hi> they wou'd cry,</l>
+                  <l>While <hi>Jove</hi> paſt unregarded by;</l>
+                  <l>All this wou'd ſure have made it plain,</l>
+                  <l>That I was born a God, (Again)</l>
+                  <pb n="6" facs="tcp:137124:6"/>
+                  <l>You cannot tho miſdoubt, that I</l>
+                  <l>Am (now) of Heavens Progeny</l>
+                  <l>So muſt believe, (tho ne're the near now)</l>
+                  <l>That I am more than Man; a <hi>Hero.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>There was no need of being there,</l>
+                  <l>One might have heard on't any where:</l>
+                  <l>Nor of doing things that thou haſt done,</l>
+                  <l>Thou fooliſh, baſe, rebellious Son,</l>
+                  <l>Dull, Canting, Idle, Logger-head;</l>
+                  <l>To make't appear that thou art dead,</l>
+                  <l>Nor of doing what the Fooliſh do,</l>
+                  <l>When e're they Sacrifize to you,</l>
+                  <l>Or to explain that thour't more baſe,</l>
+                  <l>Than any of thy God-like race;</l>
+                  <l>Haſt more Impoſture, and leſs Wit,</l>
+                  <l>Than e're was found in <hi>Hero</hi> yet?</l>
+                  <l>But now I do Conjure thee by</l>
+                  <l>Thy Canting, or thy Prophecy,</l>
+                  <l>To tell me what by <hi>Hero</hi>'s meant,</l>
+                  <l>For I am wholly ignorant:</l>
+               </sp>
+               <sp>
+                  <speaker>Tro.</speaker>
+                  <l>A <hi>Hero</hi> is a thing between</l>
+                  <l>A God, and Man (that ne're was ſeen)</l>
+                  <l>Or rather both together join'd,</l>
+                  <l>The Body, Man, the God, the Mind.</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>If ſo, pray tell me then ſweet heart,</l>
+                  <l>What is come of thy better part?</l>
+                  <l>For thou'rt of all, that's good bereft,</l>
+                  <l>And not one ſpark of Grace haſt left.</l>
+                  <l>Elſe thou ſuch things woud'ſt ne're have don,</l>
+                  <l>As Elbowing <hi>Jove,</hi> from off his Throne,</l>
+                  <l>For thou did'ſt that, which was the ſame,</l>
+                  <l>By robbing him, of his good name,</l>
+                  <l>And drawing People from his ſhrine,</l>
+                  <l>To make 'em ſacrifize to thine.</l>
+               </sp>
+               <sp>
+                  <speaker>Tro.</speaker>
+                  <l>Away with this, but you wou'd know,</l>
+                  <l>Where my diviner part is now?</l>
+                  <l>'Tis in <hi>Boeotia,</hi> where yet,</l>
+                  <l>My old Acquaintance, worſhip it:</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>Well I don't underſtand, what you,</l>
+                  <l>By all this trade can mean to do,</l>
+                  <l>But thus far, I may truly ſay,</l>
+                  <l>I do believe you're out o'th' way,</l>
+                  <l>And if I muſt, it plainly tell,</l>
+                  <l>I'me ſure you are Entire in Hell.</l>
+               </sp>
+               <byline>LUCIAN.</byline>
+            </div>
+            <div type="to_the_reader">
+               <p>Readers. <hi>Theſe Dialogues will be Publiſh'd every</hi> Tueſday <hi>and</hi> Friday.</p>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford-Arms <hi>in</hi> Warwick-lane. 1684.</p>
+            </div>
+         </div>
+         <div n="4" type="issue">
+            <pb n="7" facs="tcp:137124:6"/>
+            <head>
+               <hi>Numb.</hi> 4.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A Dialogue between <hi>Diogenes</hi> and <hi>Pollux,</hi>
+               </head>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>SInce <hi>Pollux</hi> 'tis next morn' thy right,</l>
+                  <l>To viſit Earth, and view the light;</l>
+                  <l>Bid <hi>Menippus</hi> the Philoſopher,</l>
+                  <l>The little brook that parts us Croſs over,</l>
+                  <l>Without delay, and make haſt hither,</l>
+                  <l>That we may Crack our ſides together,</l>
+                  <l>For he that here, can't Laugh his fill,</l>
+                  <l>Shall ne're laugh more, by my good will;</l>
+                  <l>Provided that he does not tell ye,</l>
+                  <l>He has already broke his belly:</l>
+                  <l>For ſurely there he'has cauſe enough,</l>
+                  <l>If he be not Peaſe-Porrige Proof.</l>
+                  <l>And tell him tho the folk about</l>
+                  <l>The place he dwells, are much in doubt</l>
+                  <l>How People fare when they are dead,</l>
+                  <l>Of which they nothing know, but Dread,</l>
+                  <l>Here's none below, but what ſtill keep tick</l>
+                  <l>With ſaith; for Hell undoes a Skeptick.</l>
+                  <l>He'll wonder too, when he comes down,</l>
+                  <l>To ſee that men of high Renown,</l>
+                  <l>Shou'd be no more than Ev'ry Gaffer,</l>
+                  <l>And onely ſubjects here of Laughter:</l>
+                  <l>And hardly known, but by their bawling;</l>
+                  <l>A ſort of Helliſh Caterwawling:</l>
+                  <l>Then bid him bring his Cruſts to ſeed on,</l>
+                  <l>With other things that he'll have need on,</l>
+                  <l>For here is nothing to be got,</l>
+                  <l>That's fitting for the Spit or Pot:</l>
+                  <l>Nay here one may, (altho in haſt,)</l>
+                  <l>As ſoon ones Neck break, as ones faſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Poll.</speaker>
+                  <l>Pray ſir don't make of me a Tool,</l>
+                  <l>And ſend me like an <hi>April</hi> Fool,</l>
+                  <l>But tell me now before I go,</l>
+                  <l>By what mark I the Spark ſhall know?</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>Haſt thou not ſeen below the Skie,</l>
+                  <l>Men that cry Silk, and Taffaty,</l>
+                  <l>With tatter'd Cloak on one Arm Toſt,</l>
+                  <l>So Patcht, th' Original is loſt,</l>
+                  <l>Who find out all the ſtrong Bub places</l>
+                  <l>And wear it's livery on their faces:</l>
+                  <l>Juſt ſuch a one is he, you can</l>
+                  <l>Not be miſtaken in the man;</l>
+                  <l>At <hi>Corinth</hi> you will find him fooling,</l>
+                  <l>Or elſe at <hi>Athens</hi> Ridiculing,</l>
+                  <l>For the Philoſophers he hates,</l>
+                  <l>And with his Banter breaks their Pates,</l>
+                  <l>Becauſe they bounce, and brag they know,</l>
+                  <l>The truth of ev'ry thing below,</l>
+                  <l>And underſtand too, thoſe above,</l>
+                  <l>As well as <hi>Mercury,</hi> or <hi>Jove,</hi>
+                  </l>
+                  <l>When they are not ſo wiſe by half,</l>
+                  <l>As <hi>Goatham</hi>'s <hi>Mayor,</hi> or <hi>Waltham</hi>'s <hi>Calf.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Poll.</speaker>
+                  <l>If he be ſuch a one, no doubt</l>
+                  <l>But I ſhall quickly find him out;</l>
+                  <pb n="8" facs="tcp:137124:7"/>
+                  <l>But have you nought for me to tell.</l>
+                  <l>The Grave Philoſophers from Hell?</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>Yes, yes, I have, come let me ſee;</l>
+                  <l>Bid 'em leave ſtudying Sophiſtry;</l>
+                  <l>Idle Diſputes, and Arguments,</l>
+                  <l>Which nothing breeds but diſcontents;</l>
+                  <l>Bid 'em forbear the ſearch of Nature</l>
+                  <l>And meddle each, with his own Matter,</l>
+                  <l>And ſpeak their knowledge, at a word</l>
+                  <l>And not be Fools thus on Record:</l>
+               </sp>
+               <sp>
+                  <speaker>Poll.</speaker>
+                  <l>And then they'll ſay that I'm a fool,</l>
+                  <l>And never learnt my book at School,</l>
+                  <l>So call me Dunce, and ſwear that I</l>
+                  <l>Don't underſtand Philoſophy.</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>Tell 'em that they muſt cry and bawl,</l>
+                  <l>As loud, as at a Funeral</l>
+                  <l>The Iriſh do, and ev'ry whit</l>
+                  <l>As true, as theirs is all Deceit.</l>
+               </sp>
+               <sp>
+                  <speaker>Poll.</speaker>
+                  <l>Well, I'le remember what you ſay,</l>
+                  <l>And all your wiſe Commands obey.</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>As for the mighty men of worth,</l>
+                  <l>Tell 'em I bid you thus hold forth.</l>
+                  <l>Why do you give your ſelves ſuch Pain,</l>
+                  <l>About what's periſhing and vain?</l>
+                  <l>What ſignifies your pomp and ſtate?</l>
+                  <l>Your being Noble, Rich, or Great?</l>
+                  <l>Your vaſt Attendance, and Calaſhes?</l>
+                  <l>When you are faln to Duſt and Aſhes;</l>
+                  <l>And Threed-bare Vicar going firſt,</l>
+                  <l>Cries here's the hole, and in you muſt.</l>
+                  <l>And tell the Smock-fac't <hi>Megibus,</hi>
+                  </l>
+                  <l>And the Wreſtler <hi>Damoxenus,</hi>
+                  </l>
+                  <l>That here ſtrong Back, nor able Thighs,</l>
+                  <l>Nor curled Hair, nor ſparkling Eyes,</l>
+                  <l>Nor all the Charms adorn'd by Art,</l>
+                  <l>In this place ſignifie a Fart.</l>
+               </sp>
+               <sp>
+                  <speaker>Poll.</speaker>
+                  <l>It ſhall be done, and free from Paſſions,</l>
+                  <l>I'le do your hearty commendations.</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>Go to the Poor, whom you will ſee,</l>
+                  <l>Groaning beneath their miſery,</l>
+                  <l>And comfort 'em, and tell 'em all,</l>
+                  <l>They muſt no longer howl and bawl,</l>
+                  <l>Since there's no difference when we're dead,</l>
+                  <l>Between the Poor, and Crowned head;</l>
+                  <l>For Monſieur <hi>Mors,</hi> that ancient Traveller</l>
+                  <l>Was always known, to be a Leveller,</l>
+                  <l>And tell each <hi>Spartan</hi> to his face,</l>
+                  <l>They are all degenerate and baſe;</l>
+                  <l>That thoſe who us'd to fight with Half-ſtaff,</l>
+                  <l>Are dwindl'd now into a <hi>Falſtaff.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Poll.</speaker>
+                  <l>If you ſpeak ill of them, good Sir,</l>
+                  <l>I will not be your Meſſenger;</l>
+                  <l>But all the reſt I will obey,</l>
+                  <l>To a Cow's Thumb, (as one may ſay.)</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>Well, do in that as likes you beſt,</l>
+                  <l>But pray be punctual in the reſt.</l>
+               </sp>
+            </div>
+            <div type="colophon">
+               <p>Printed for <hi>Charles Corbet</hi> at the Oxford Arms in <hi>Warwick Lane.</hi> 1684.</p>
+            </div>
+         </div>
+         <div n="5" type="issue">
+            <pb n="9" facs="tcp:137124:7"/>
+            <head>
+               <hi>Numb.</hi> 5.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between ACHILLES and ANTILOCHUS.</head>
+               <sp>
+                  <speaker>Ant.</speaker>
+                  <l>WHat's that you ſaid unto <hi>
+                        <g ref="char:V">Ʋ</g>lyſſes?</hi>
+                  </l>
+                  <l>Sure you have here no factious Wiſhes,</l>
+                  <l>That you had rather be as Poor,</l>
+                  <l>As thoſe who beg from door to Door;</l>
+                  <l>That want a Belly full of Bread,</l>
+                  <l>And han't a hole to hide their Head:</l>
+                  <l>Than or'e the ſhades a Ruler be,</l>
+                  <l>So much you ſtill hate Monarchy;</l>
+                  <l>But faith and troth you don't do well</l>
+                  <l>To preach theſe Sentiments in Hell,</l>
+                  <l>For here are none but what obey,</l>
+                  <l>And Reverence to their Monarch Pay.</l>
+                  <l>Nor are you worthy of your Name,</l>
+                  <l>Or of the Place from whence you came,</l>
+                  <l>Who like a hardy fool did Chuſe</l>
+                  <l>Your life and fame, and all to loſe.</l>
+                  <lg type="triplet">
+                     <l>Such was your fooliſh Zeal, (or Spite)</l>
+                     <l>Than live and do what's Juſt and Right,</l>
+                     <l>Though in full Splendour and Delight.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ach.</speaker>
+                  <l>All this is true, faith honeſt Tory,</l>
+                  <l>But then I thought that worldly Glory,</l>
+                  <l>Was th' onely <hi>Summum Bonum</hi> tho</l>
+                  <l>I now find that 'twas nothing ſo:</l>
+                  <l>No, notwithſtanding Father <hi>Homer,</hi>
+                  </l>
+                  <l>Said it was ſo, upon his Honour;</l>
+                  <l>With other Modern Poets too,</l>
+                  <l>But I find none of them ſpoke true;</l>
+                  <l>Here Strength, and Handſomneſs, (that rare thing)</l>
+                  <l>Don't ſignifie one ſingle Farthing;</l>
+                  <l>Nor can I find the <hi>Grecians</hi> (hear me)</l>
+                  <l>Do Reverence or <hi>Trojans</hi> ſear me.</l>
+                  <pb n="10" facs="tcp:137124:8"/>
+                  <lg type="triplet">
+                     <l>Nor is here any difference neither,</l>
+                     <l>But juſt like Birds of the ſame feather,</l>
+                     <l>We're all alike and flock together.</l>
+                  </lg>
+                  <l>Therefore I cou'd wiſh that I were</l>
+                  <l>To breath a little <hi>Grecian</hi> Air,</l>
+                  <l>Tho at the hazard, (I muſt tell you)</l>
+                  <l>Of being but ſome little Fellow:</l>
+               </sp>
+               <sp>
+                  <speaker>Anti.</speaker>
+                  <l>Come, come, leave off this murmuring trade</l>
+                  <l>The laws o'th' World muſt be obey'd.</l>
+                  <l>And Nature too muſt have her ſwing</l>
+                  <l>And all Obey Great Order's King:</l>
+                  <l>Beſides your mighty Men are too,</l>
+                  <l>All gon, or dead, as well as you.</l>
+               </sp>
+               <sp>
+                  <speaker>Achi.</speaker>
+                  <l>
+                     <hi>Antilochus</hi> it is in vain,</l>
+                  <l>To comfort me, I tell you plain,</l>
+                  <l>For I am fill'd with ſtrange Regrets,</l>
+                  <l>Which thoughts of life in me begets.</l>
+                  <l>And you are troubled too (I ſee,)</l>
+                  <l>Tho you diſſemble more than I:</l>
+                  <lg type="triplet">
+                     <l>If ſhe not daring to complain</l>
+                     <l>When overwhelm'd with Fear and Pain.</l>
+                     <l>Ben't full as fooliſh, and as vain,</l>
+                  </lg>
+                  <l>As th' little tricks, that Children play</l>
+                  <l>Upon a Summers Holy-day.</l>
+               </sp>
+               <sp>
+                  <speaker>Anti.</speaker>
+                  <l>'Tis Reſolution rather tho</l>
+                  <l>To ſuffer with a ſerious Brow;</l>
+                  <l>Yet yours was not ſo I (Profeſs,)</l>
+                  <l>But onely a Fool-hardineſs.</l>
+                  <l>Nor is it wiſedom to Complain,</l>
+                  <l>When by it we no good can gain;</l>
+                  <l>And it is better much, to bear</l>
+                  <l>Ones ſufferings with a chearfull Air,</l>
+                  <l>So one but leave unto his Nation,</l>
+                  <l>An honeſt, ſpotleſs, Reputation,</l>
+                  <l>Than to become a laughing-ſtooll,</l>
+                  <l>By vain complaints to ev'ry Fooll.</l>
+               </sp>
+               <byline>LUCIAN</byline>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford-Arms <hi>in</hi> Warwick-lane. 1684.</p>
+            </div>
+         </div>
+         <div n="6" type="issue">
+            <pb n="11" facs="tcp:137124:8"/>
+            <head>
+               <hi>Numb.</hi> 6.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between ZEPHYRUS and NOTUS.</head>
+               <sp>
+                  <speaker>No.</speaker>
+                  <l>THe Cow you ſee ſo briskly move,</l>
+                  <l>Friend <hi>Zephyrus,</hi> was Whore to <hi>Jove;</hi>
+                  </l>
+                  <l>Whom <hi>Mercury,</hi> his Man, is driving</l>
+                  <l>To <hi>Aegypt,</hi> there to graze her Living:</l>
+               </sp>
+               <sp>
+                  <speaker>Ze.</speaker>
+                  <l>I know't, and then ſhe was a Maiden,</l>
+                  <l>As good as ever Leg was lay'd-on;</l>
+                  <l>But <hi>Juno</hi>'s plaguy Jealouſie</l>
+                  <l>Has ſince transform'd her, as you ſee.</l>
+               </sp>
+               <sp>
+                  <speaker>No.</speaker>
+                  <l>And think'ſt thou <hi>Jupiter</hi> does know it?</l>
+                  <l>Sure if he did, he wou'd not do it;</l>
+               </sp>
+               <sp>
+                  <speaker>Ze.</speaker>
+                  <l>Yes, yes, he knows it well enough,</l>
+                  <l>And has forbidden us to puff</l>
+                  <l>'Till ſhe's arriv'd, and out of fear;</l>
+                  <l>Beſides ſhe is to lie Inn there;</l>
+                  <l>Her baſtard too, (altho' it odd is,)</l>
+                  <l>Will be a God, and ſhe a Goddeſs;</l>
+               </sp>
+               <sp>
+                  <speaker>No.</speaker>
+                  <l>A Cow a Goddeſs! that's a Bull;</l>
+               </sp>
+               <sp>
+                  <speaker>Ze.</speaker>
+                  <l>
+                     <hi>Jove</hi> can do any thing you Fool:</l>
+                  <l>Or'e ſailers ſhe will govern too,</l>
+                  <l>And what ſhe pleaſes we muſt do:</l>
+                  <l>'Tis very hard, we muſt not roar</l>
+                  <l>But when commanded by a Whore.</l>
+               </sp>
+               <sp>
+                  <speaker>No.</speaker>
+                  <l>Nay then, betimes let's court the Minion,</l>
+                  <l>To get into her good Opinion:</l>
+                  <l>Our Intereſt ſays it muſt be done,</l>
+                  <l>And all Men court the Riſing-ſun.</l>
+               </sp>
+               <sp>
+                  <speaker>Ze.</speaker>
+                  <l>See, ſhe's arriv'd upon the plain,</l>
+                  <l>And is a Woman too again,</l>
+                  <l>And goes no longer now on four</l>
+                  <l>But walks like any other Whore.</l>
+               </sp>
+               <sp>
+                  <speaker>No.</speaker>
+                  <l>This is a Miracle! for now</l>
+                  <l>She' has nought remaining of the Cow,</l>
+                  <l>And <hi>Mercury</hi> to wait on her</l>
+                  <l>Has turn'd himſelf into a Cur.</l>
+               </sp>
+               <sp>
+                  <speaker>Ze.</speaker>
+                  <lg type="triplet">
+                     <l>Let's curb our Curioſity</l>
+                     <l>For there muſt in't ſome Miſtery be,</l>
+                     <l>But <hi>Mercury</hi> better knows than we.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>A Dialogue betwixt <hi>Jupiter, Eſculpaius</hi> and <hi>Hercules.</hi>
+               </head>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>LEave off, i'll have no more ſuch ſtirs,</l>
+                  <l>Always a quarrelling ye Curs?</l>
+                  <l>No ſooner I ſit down to table in</l>
+                  <l>The Parlour, but you ſall to ſquabling,</l>
+                  <pb n="12" facs="tcp:137124:9"/>
+                  <l>Growling and ſnarling juſt like Dogs,</l>
+                  <l>One might as well go eat with Hogs;</l>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>Why father is it fit that he,</l>
+                  <l>Damn'd Quack, ſhou'd take the wall of me?</l>
+               </sp>
+               <sp>
+                  <speaker>Eſcu.</speaker>
+                  <l>No Quack you Ruffain as you flout,</l>
+                  <l>But God of Phyſick, abſolute:</l>
+                  <l>A thouſand times your Betters too,</l>
+                  <l>You Clumſie Lubber, Bouteſeau!</l>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>Betters! you Clod-Pate undertaker,</l>
+                  <l>This muſt not do, you Piſs-pot ſhaker;</l>
+                  <l>Tho your dull Brains were daſht with Thunder,</l>
+                  <l>And then reſtor'd, the greater Wonder.</l>
+               </sp>
+               <sp>
+                  <speaker>Eſcu.</speaker>
+                  <l>It much becomes you Scoundrel tho</l>
+                  <l>To jeer me with my dying ſo,</l>
+                  <l>When you on <hi>Oeta,</hi> pray compare</l>
+                  <l>Were burnt alive, as Wizards are.</l>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>Mine was a voluntary Prank</l>
+                  <l>Thou dull Quack-ſalving Mountebank:</l>
+                  <l>After the Monſters I had hurl'd</l>
+                  <l>To ſeveral Deaths, who'd plagu'd the World;</l>
+                  <l>Whilſt thou, dull ſwaggering <hi>Ignoramus</hi>
+                  </l>
+                  <l>By canting on a Stage grew famous,</l>
+                  <l>And bantring in a Purple-cloak,</l>
+                  <l>So cheating honeſt Country-folk.</l>
+               </sp>
+               <sp>
+                  <speaker>Eſcu.</speaker>
+                  <l>But when you came to us ſo mauld,</l>
+                  <l>Grill'd, ſcorcht, and roaſted, fry'd, and ſcawld,</l>
+                  <l>I was your Docter, (Beaſt,) to cure ye</l>
+                  <l>Altho you cannot ſince endure me:</l>
+                  <l>And now I think on't (by the by,)</l>
+                  <l>I never was an Hoſtler, I;</l>
+                  <l>Nor was I ſervant to a Whore,</l>
+                  <l>To make me ſpin from door to Door;</l>
+                  <l>And if my task I did not do,</l>
+                  <l>Be beaten with the Diſtaff too,</l>
+                  <l>Nor did I (ſlay upon my life)</l>
+                  <l>My little Children and my Wife,</l>
+                  <l>As thou didſt lately do, foul beaſt!</l>
+               </sp>
+               <sp>
+                  <speaker>Her.</speaker>
+                  <l>Stop your Gally-pot-mouth you'd beſt,</l>
+                  <l>Or elſe <hi>Jove</hi>'s ſelf ſhall not ſecure ye,</l>
+                  <l>From my inveterate Rage and Fury;</l>
+                  <l>I'll make thee cut a Caper down,</l>
+                  <l>From Heaven to Earth (dull ſenſeleſs Clown;</l>
+                  <l>Which ſhall ſo ſhake thy Adle-brains,</l>
+                  <l>That thou with all thy Art and Pains,</l>
+                  <l>To cur't, ſhall find enough to do,</l>
+                  <l>Tho thou art good at probing too.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Leave off damn'd Dogs, or elſe uds boo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s!</l>
+                  <l>I'll turn ye both out of my Doors:</l>
+                  <l>The Docter's oldeſt, therefore pray</l>
+                  <l>You Clubſter, let him have the way.</l>
+               </sp>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford-Arms <hi>in</hi> Warwick-lane. 1684.</p>
+            </div>
+         </div>
+         <div n="7" type="issue">
+            <pb n="13" facs="tcp:137124:9"/>
+            <head>
+               <hi>Numb.</hi> 7.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between MERCURY and CHARON.</head>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>PRithee <hi>Tarpaulin</hi> let us ſee,</l>
+                  <l>How much thou art in debt to me?</l>
+                  <l>Leaſt we ſhou'd both forget it, come,</l>
+                  <l>And let's caſt up the total ſumm;</l>
+                  <l>For if we ſhou'd miſtake a Groat,</l>
+                  <l>Thoud'ſt fret, and never mind thy boat.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>Reckon <hi>Mercury?</hi> for my part,</l>
+                  <l>I am content with all my heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>
+                     <hi>Imprimis,</hi> for thee I lay'd out</l>
+                  <l>To buy an Anchor for thy boat,</l>
+                  <l>Twenty five pence (in ready Duſt)</l>
+                  <l>For honeſt Swabber I'll be juſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>So much d'you ſay? (I'll vow and ſwear,)</l>
+                  <l>As things go now, that's very dear.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>Why faith and troth, what e're you think,</l>
+                  <l>It Coſt ſo much, in ready Chink.</l>
+                  <l>
+                     <hi>Item,</hi> (let me ſee,) two pence more</l>
+                  <l>For that, to which, you tye the Oar.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>That's very well, to th' other ſcore</l>
+                  <l>(Pray be exact,) ſet two pence more.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>
+                     <hi>Item,</hi> A Needle I did buy,</l>
+                  <l>Which coſt me, four pence half-penny,</l>
+                  <l>To mend the ſails, laſt ſtorm we had;</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>Add them together now my lad.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>
+                     <hi>Item,</hi> For Pitch, and Tar, and Nails,</l>
+                  <l>And a ſmall Rope to hoiſt the ſails,</l>
+                  <l>Juſt ten pence I laid out for you,</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>That's very reas'nable I vow.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>And this is all I think (dear Chroney)</l>
+                  <l>But prithee when wilt pay the Money?</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>Why truly friend, (I won't harrangue thee,)</l>
+                  <l>But if I have a farthing, hang me:</l>
+                  <l>Yet if the times do mend, I ſwear,</l>
+                  <l>And there ſhou'd come a Plague, or War,</l>
+                  <l>That ſo I might a little juggle,</l>
+                  <l>And now and then the Cuſtome ſmuggle,</l>
+                  <l>I'll pay thee ev'ry farthing (know me)</l>
+                  <l>That thou wilt ſay that I now owe thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>And i'th mean time I muſt by th'Loſs<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Sit down, with folded Arms a-Croſs</l>
+                  <pb n="14" facs="tcp:137124:10"/>
+                  <l>And wiſh that Plagues and Miſchiefs may,</l>
+                  <l>Take half the wicked World away,</l>
+                  <l>Before you'll able be to pay me,</l>
+                  <l>Faith 'tis not fair, you ſhou'd delay me.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>I ſhan't be able troth before,</l>
+                  <l>(Friend <hi>Mercury</hi>) to pay thy Score.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>I'de rather ne're be paid by thee,</l>
+                  <l>Than all thoſe ſtrange Misfortunes ſee;</l>
+                  <l>But this does put into my head,</l>
+                  <l>A thing relating to the dead;</l>
+                  <l>Why thoſe dye now, ſhou'd differ ſo,</l>
+                  <l>From thoſe folk, who dy'd long ago;</l>
+                  <l>For then they all were brisk and ſtrong,</l>
+                  <l>Plump, fleſhy, vigorous, and young.</l>
+                  <l>And ſeldom with a body whole,</l>
+                  <l>But cut and ſlaſht from feet to poll;</l>
+                  <l>With darts and ſpears, and many a thwack,</l>
+                  <l>Oft' lookt like th' man i'th' Almanack.</l>
+                  <l>Whereas they now are little things,</l>
+                  <l>Moſt dying of their ſurfeitings;</l>
+                  <l>Pale, wan, and weak, and hardly able</l>
+                  <l>To go a hi-lone, by a Table.</l>
+                  <lg type="triplet">
+                     <l>Some kill'd by Wine, debauch'd with ſtum</l>
+                     <l>Or drinking, <hi>Supernaculum</hi>
+                     </l>
+                     <l>Others with ſomething elſe, (but Mum)</l>
+                  </lg>
+                  <l>Some have been ſent too, by their friends</l>
+                  <l>To bring about their private ends.</l>
+                  <l>Others have ſuffer'd by their heirs,</l>
+                  <l>While ſome have pin'd away with cares.</l>
+               </sp>
+               <sp>
+                  <speaker>Cha.</speaker>
+                  <l>I do not wonder (honeſt friend)</l>
+                  <l>That Int'reſt ſhou'd ſo many ſend;</l>
+                  <l>For 'tis a hard thing now to get</l>
+                  <l>Ones own, tho prov'd, by law a debt:</l>
+                  <l>Therefore much more, to get it by</l>
+                  <l>Ones Labour, or ones Induſtry.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>Wonder not than, (for well you know me)</l>
+                  <l>I ſpoke oth'money, that you owe me.</l>
+               </sp>
+               <byline>LUCIAN.</byline>
+            </div>
+            <div type="publishers_advertisement">
+               <head>ADVERTISEMENT.</head>
+               <p>
+                  <hi>There are lately Publiſh'd ſome Modern Dialogues Intituled</hi> Lucian's Ghoſt <hi>done out of</hi> French, <hi>Prin<g ref="char:EOLhyphen"/>ted for</hi> James Norris <hi>at the</hi> Kings Arms <hi>without</hi> Temple-Bar.</p>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford-Arms <hi>in</hi> Warwick-lane. 1684.</p>
+            </div>
+         </div>
+         <div n="8" type="issue">
+            <pb n="15" facs="tcp:137124:10"/>
+            <head>
+               <hi>Numb.</hi> 8.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between MENIPPUS and CHIRON.</head>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>
+                     <hi>CHiron</hi> I've often heard it told</l>
+                  <l>That thou did'ſt wiſh ('fore thou waſt old)</l>
+                  <l>Death wou'd thy fleſh and ſpirit ſever</l>
+                  <l>Tho thou had'ſt leave to live for ever:</l>
+                  <l>Come prithee tell me why thou waſt</l>
+                  <l>So fond of Death, and in ſuch haſt?</l>
+                  <l>That thou thy ſelf ſhoud'ſt break the Bonds</l>
+                  <l>Of Life; and fall by thy own hands,</l>
+                  <l>As if thou'd'ſt weary bin of breath,</l>
+                  <l>'Cauſe I ſee no ſuch Charms in Death.</l>
+               </sp>
+               <sp>
+                  <speaker>Chi.</speaker>
+                  <l>I'll tell thee, if thou wilt not teaz me,</l>
+                  <l>Something fell out, that did not pleaſe me,</l>
+                  <l>Which was the cauſe I wou'd not ſtay.</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>Were you not glad t'enjoy the Day?</l>
+               </sp>
+               <sp>
+                  <speaker>Chi.</speaker>
+                  <l>No, I had too much diſcontent,</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>And did'ſt thou ne're for it repent?</l>
+               </sp>
+               <sp>
+                  <speaker>Chi.</speaker>
+                  <l>No, I was never yet ſo vain,</l>
+                  <l>And 'tis as little to complain.</l>
+                  <l>Beſides 'tis dull to live, ſince we</l>
+                  <l>In life have no Diverſity,</l>
+                  <l>For ſtill we do, (to our great Pain)</l>
+                  <l>The ſame things o're and o're again;</l>
+                  <l>We eat and drink and to our ſorrow,</l>
+                  <l>We drink and eat agen to Morrow;</l>
+                  <l>To Night we ſleep, and dream, and then</l>
+                  <l>Next night we do the ſame agen,</l>
+                  <l>Thirſting, Drinking, Eating, Hunger</l>
+                  <l>So tyred me I'de live no longer.</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>But how did you ſupport your Death,</l>
+                  <l>When your for it, had ſwopt your Breath?</l>
+               </sp>
+               <sp>
+                  <speaker>Chi.</speaker>
+                  <l>Without a Grudge, or was I troubl'd,</l>
+                  <l>For here my Pleaſures all are doubl'd?</l>
+                  <l>Here's no Ambition, no great places,</l>
+                  <l>No haughty looks, nor bold Menaces.</l>
+                  <pb n="16" facs="tcp:137124:11"/>
+                  <l>No ſtriving to be Rich, or great</l>
+                  <l>But all's Hail-fellow here, well met.</l>
+                  <l>'Tis like a Pop'lar-ſtate, for here</l>
+                  <l>No one muſt huff or domineer;</l>
+                  <l>Where ev'ry Cobler is as free</l>
+                  <l>And of as high Nobility,</l>
+                  <l>As any man dare ſhew his face,</l>
+                  <l>Or live, in ſuch a Govern'd place:</l>
+                  <l>And what care I (for my delight)</l>
+                  <l>Whether it be or day or night,</l>
+                  <l>And then we'ave this advantage too;</l>
+                  <l>We neither eat nor drink below,</l>
+                  <l>Nor are we Plagu'd with Thirſt or Hunger,</l>
+                  <l>(Which than a ſtone Wall's counted ſtronger)</l>
+                  <l>Or with any other Clogs of Life,</l>
+                  <l>Or with that Curſed plague a Wife;</l>
+                  <l>Obedience unto friends, or kin,</l>
+                  <l>Or any other idle ſin.</l>
+                  <l>Nor do we Covet this man's Coney,</l>
+                  <l>Or that man's houſe or Patrimony,</l>
+                  <l>Here we are never wanting neither</l>
+                  <l>Of ſhelter, from the ſtormy Weather,</l>
+                  <l>And let the froſt be ne're ſo furious,</l>
+                  <l>Unto our Poor 'tis ne're Injurious.</l>
+                  <l>Nor do they howl, or bawl, for Bread,</l>
+                  <l>Or are the wealthy ſurfeited.</l>
+                  <l>But all are here alike and free</l>
+                  <l>from mortal Inconveniency.</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>
+                     <hi>Chiron</hi> take heed you do not do</l>
+                  <l>What you wou'd willingly eſchew,</l>
+                  <l>And ſo relapſe (as if decoy'd)</l>
+                  <l>Into the fault you wou'd avoid:</l>
+                  <l>For if thy life (to thee) was pain</l>
+                  <l>By doing the ſame things or'e again,</l>
+                  <l>Sure now thou'ſt 'cauſe to grieve ſince we</l>
+                  <l>In Hell, have no variety.</l>
+               </sp>
+               <sp>
+                  <speaker>Chi.</speaker>
+                  <l>Tell me <hi>Menippus</hi> (if it Pleaſe thee)</l>
+                  <l>What I muſt do to make me Eaſie.</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>Why, what was done in former Ages</l>
+                  <l>To gain Content by th' Antient <hi>Sages,</hi>
+                  </l>
+                  <l>And to believe what can't be cur'd</l>
+                  <l>In life, or death, may be endur'd.</l>
+               </sp>
+               <byline>LUCIAN.</byline>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford-Arms <hi>in</hi> Warwick-lane. 1684.</p>
+            </div>
+         </div>
+         <div n="9" type="issue">
+            <pb n="17" facs="tcp:137124:11"/>
+            <head>
+               <hi>Numb.</hi> 9. </head>
+            <opener>
+               <dateline>
+                  <date>[Tueſday <hi>Feb.</hi> 19<hi rend="sup">th.</hi> 1684.]</date>
+               </dateline>
+            </opener>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between AEACUS, PROTESILAUS, MENELAUS and PARIS.</head>
+               <sp>
+                  <speaker>Aea.</speaker>
+                  <l>BY <hi>Pluto!</hi> I demand the Cauſe</l>
+                  <l>Why thou doſt thus, <hi>Proteſilaus?</hi>
+                  </l>
+                  <l>No ſooner thou art enter'd <hi>Hell</hi> in,</l>
+                  <l>But ſtraight thou Kick'ſt and Buffets <hi>Helen;</hi>
+                  </l>
+                  <l>And fal'ſt upon her in ſuch manner,</l>
+                  <l>As if thou'd'ſt make a Devil on her.</l>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <l>Furies and Hell! pray is not ſhe,</l>
+                  <l>The cauſe of all my miſery?</l>
+                  <l>Such Wheed'ling things, the Baggage did do,</l>
+                  <l>That my poor Wife liv'd (like) a Widdow;</l>
+                  <l>Beſides my Family was ſpoyl'd,</l>
+                  <l>For by her means I had no Child.</l>
+               </sp>
+               <sp>
+                  <speaker>Aea.</speaker>
+                  <l>Ud's Death! bang him who was the cauſe,</l>
+                  <l>That (to'ther Cuckold) <hi>Menelaus,</hi>
+                  </l>
+                  <l>Who to thoſe Miſchiefs led thee on,</l>
+                  <l>By which thou fairly, art undon?</l>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <l>By Heaven! that is truly ſaid,</l>
+                  <l>Have at thy Plotting Loggerhead!</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>Hold, hold: you are beſide the ſaddle</l>
+                  <l>Or elſe your Coxcombs brains are addle;</l>
+                  <l>Tis not with me, but <hi>Monſieur Paris,</hi>
+                  </l>
+                  <l>(If you will do the thing that fair is,)</l>
+                  <l>You ought to Quarrel with, for he;</l>
+                  <l>Sans Right of hoſpitallity</l>
+                  <l>Debauch't my Wife, and (as you knew well,)</l>
+                  <l>Raviſh't away my precious Jewel.</l>
+                  <lg type="triplet">
+                     <l>The <hi>Baſtard</hi> like a Thief wou'd come</l>
+                     <l>I'th' Night, when I was drunk as Drum,</l>
+                     <l>And firk the Gipſie'bout the Bum.</l>
+                  </lg>
+                  <l>My ſervants bribe, and for a Whimſie</l>
+                  <l>Wou'd often hide himſelf i'th' Chimme,</l>
+                  <l>With Scaling Ladders, (made of Garters,)</l>
+                  <l>He'd often mount into her Quarters.</l>
+                  <l>For this he well deſerves a banging,</l>
+                  <l>and (for what elſe I know) a hanging</l>
+                  <pb n="18" facs="tcp:137124:12"/>
+                  <l>The <hi>Trojans</hi> reaſon have to hate him.</l>
+                  <l>The <hi>Greeks</hi> when er'e they can, will beat him.</l>
+                  <l>Both ſides ſo hate the Curſed Elf</l>
+                  <l>That now he may go hang himſelf</l>
+                  <l>For want of one to do the favour,</l>
+                  <l>(So ſave ſome body elſe, a Labour,)</l>
+                  <l>All that have loſt their lives of late,</l>
+                  <l>Have reaſon too the Fool to hate.</l>
+                  <l>He led them on to their undoing</l>
+                  <l>And on himſelf and them brought Ruine.</l>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <l>Thou doubly damn'd to Hell! with Clods,</l>
+                  <l>I'll break thy Head, by all the God's:</l>
+                  <l>I'll ſtrangle then away thy breath,</l>
+                  <l>For gulling Men ſo into Death,</l>
+                  <l>Nay, flinch not Dog, for I'll aſſure thee,</l>
+                  <l>Now, thou ſha't feel my Rage and Fury.</l>
+               </sp>
+               <sp>
+                  <speaker>Paris.</speaker>
+                  <l>Truly I think <hi>Proteſilaus</hi>
+                  </l>
+                  <l>Your angry now without a Cauſe.</l>
+                  <l>For you your ſelf a Votary</l>
+                  <l>Are to the ſelf ſame Deity:</l>
+                  <l>Beſides you know we're forc'd to do</l>
+                  <l>What e're he's pleas'd to lead us to.</l>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <l>'Tis true, that God is much to blame,</l>
+                  <l>And is th' chief Cauſe of all our ſhame.</l>
+               </sp>
+               <sp>
+                  <speaker>Aea.</speaker>
+                  <l>He might have ſaid tho if he wou'd</l>
+                  <l>Thou drew'ſt upon thy ſelf thy blood,</l>
+                  <l>Since thou muſt needs run puſhing on,</l>
+                  <l>To purchaſe Honour and Renown,</l>
+                  <lg type="triplet">
+                     <l>And ſo waſt chopt to death (before)</l>
+                     <l>Thou waſt well landed on the ſhore,</l>
+                     <l>Forgetting that thou had'ſt a Whore.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Pro.</speaker>
+                  <l>I rather ſhou'd complain of Heaven,</l>
+                  <l>To leave me thus at ſix and ſeven;</l>
+                  <l>And Deſtiny that curſed Jade,</l>
+                  <l>That I ſhou'd now be thus betray'd;</l>
+                  <l>Nay, faith and troth it was not Civil,</l>
+                  <l>To ſend one headlong thus to th' Devil.</l>
+               </sp>
+               <sp>
+                  <speaker>Aea.</speaker>
+                  <l>Blame and accuſe whom e're you pleaſe,</l>
+                  <l>But let theſe People live at eaſe;</l>
+                  <l>And leave off all this fooliſh ſtuff,</l>
+                  <l>For Hell without it's bad enough.</l>
+               </sp>
+               <byline>LUCIAN.</byline>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford-Arms <hi>in</hi> Warwick-lane, 1684.</p>
+            </div>
+         </div>
+         <div n="10" type="issue">
+            <pb n="19" facs="tcp:137124:12"/>
+            <head>
+               <hi>Numb.</hi> 10.</head>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between PLUTO and MERCURY.</head>
+               <opener>
+                  <dateline>
+                     <date>Tueſday <hi>Feb.</hi> 26<hi rend="sup">th.</hi> 1683/4.</date>
+                  </dateline>
+               </opener>
+               <sp>
+                  <speaker>Pluto.</speaker>
+                  <l>
+                     <hi>MErc'ry</hi> do'ſt know that Fellow there?</l>
+                  <l>Who's old, and rich, but wants an Heir,</l>
+                  <l>On whom ſo many people wait</l>
+                  <l>In hopes he'll leave 'em his Eſtate.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>D'you mean the <hi>Sicyonian?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Pluto.</speaker>
+                  <l>The very ſame Grey-hair'd old Man.</l>
+                  <l>And prithee <hi>Merc'ry</hi> do not grudge</l>
+                  <l>To be unto his Age a Crutch;</l>
+                  <l>And let him live and Guzzle on,</l>
+                  <l>Untill thoſe Fools are dead and gone;</l>
+                  <l>Who after him ſo often dance,</l>
+                  <l>Expecting his Inheritance.</l>
+                  <l>Do this and you'll obliege me too,</l>
+                  <l>In troth you will, I prithee do?</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>No, 'tis unjuſt to kill the Young,</l>
+                  <l>And let the Aged live ſo long.</l>
+                  <l>Beſides, the like was never known,</l>
+                  <l>'Tis turning Nature upſide down.</l>
+               </sp>
+               <sp>
+                  <speaker>Pluto.</speaker>
+                  <l>Come nimble Tongue you are miſta'ne,</l>
+                  <l>'Tis very juſt as I'le explain:</l>
+                  <l>For why ſhou'd they have his Eſtate,</l>
+                  <l>Who by no way to him Relate;</l>
+                  <l>And 'fore his Face to gain his favour</l>
+                  <l>Deſire he may live for ever?</l>
+                  <l>Make Vows in publick for his Health,</l>
+                  <l>As if they valu'd not his Wealth:</l>
+                  <l>When privately they wiſh him cold,</l>
+                  <l>That they may ſhare his Bags of Gold.</l>
+                  <l>Therefore good <hi>Merc'ry</hi> ſee it done,</l>
+                  <l>He ought t' out-live 'em ev'ry one:</l>
+                  <l>And tho perhaps it make 'em ſnort all,</l>
+                  <l>Let 'em believe he is Immortall.</l>
+               </sp>
+               <pb n="20" facs="tcp:137124:13" rendition="simple:additions"/>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <lg type="triplet">
+                     <l>And now I think on't faith they do</l>
+                     <l>Deſerve to be all Puniſh'd ſo,</l>
+                     <l>Becauſe each Dog may have his due.</l>
+                  </lg>
+                  <lg type="triplet">
+                     <l>But that which pleaſes me the moſt,</l>
+                     <l>Is to obſerve how they are toſt,</l>
+                     <l>By him from Pillar (back) to Poſt.</l>
+                  </lg>
+                  <l>For ſtill 'fore them he ſeems a dying,</l>
+                  <l>With all his Fam'ly round him Crying;</l>
+                  <l>Tho when they're gone he's very well,</l>
+                  <l>And drinks, and eats a hearty Meal:</l>
+                  <l>And this to make 'em all redouble</l>
+                  <l>Their Aſſiduity and Trouble;</l>
+                  <l>That as their hopes (of Death) increaſes,</l>
+                  <l>They may improve their kind Careſſes;</l>
+                  <l>For he much pleaſure takes to teaze 'em,</l>
+                  <l>And is reſolved ne'er to pleaſe 'em.</l>
+                  <l>But now I am afraid at laſt</l>
+                  <l>They'll want the Means to break their Faſt,</l>
+                  <l>By over eagerneſs to get</l>
+                  <l>Another's Wealth to make 'em Great.</l>
+               </sp>
+               <sp>
+                  <speaker>Pluto.</speaker>
+                  <l>Therefore becauſe they've bin ſo vain,</l>
+                  <l>Let him be brisk and young again.</l>
+                  <l>To boaſt and brag let them have no cauſe,</l>
+                  <l>But make him ſtrong again like <hi>Jolaus.</hi>
+                  </l>
+                  <lg type="triplet">
+                     <l>And for their parts let me Intreat it,</l>
+                     <l>That to the Guts they may be fretted,</l>
+                     <l>To ſee their greedy hopes defeated.</l>
+                  </lg>
+                  <l>In Dreams let him his Wealth be ſharing,</l>
+                  <l>Thinking them dead as any Herring,</l>
+                  <l>But when they waking find it not,</l>
+                  <l>Let each man cut his proper Throat.</l>
+               </sp>
+               <sp>
+                  <speaker>Mer.</speaker>
+                  <l>But Maſter <hi>Pluto</hi> (I aſſure you)</l>
+                  <l>You ought not to inſtruct <hi>Mercury;</hi>
+                  </l>
+                  <l>Come let me ſee, (then he did wink,</l>
+                  <l>And cry'd) they're ſeven juſt (I think)</l>
+                  <l>I'le bring 'em all, one after t'other,</l>
+                  <l>(Each Son of Whore, or honeſt Mother.)</l>
+               </sp>
+               <sp>
+                  <speaker>Pluto.</speaker>
+                  <l>
+                     <hi>D'b'uy</hi> and then you'll pleaſe me too,</l>
+                  <l>But pray take heed in what you do,</l>
+                  <l>And let the old Man (free from cares)</l>
+                  <l>Out-live's Imaginary Heirs.</l>
+               </sp>
+               <byline>LUCIAN.</byline>
+            </div>
+            <div type="colophon">
+               <p>
+                  <hi>Printed for</hi> Charles Corbet <hi>at the</hi> Oxford-Arms <hi>in</hi> Warwick-lane. 1684.</p>
+            </div>
+         </div>
+         <div type="issue">
+            <pb n="1" facs="tcp:137124:13"/>
+            <head>LUCIAN.</head>
+            <div type="dialogue">
+               <head>A DIALOGUE Between MENIPPUS <hi>and</hi> CERBERUS.</head>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>THOU Great <hi>Triumvirate</hi> of Pates!</l>
+                  <l>And Porter of th' Infernal Gates;</l>
+                  <l>Tell me, when <hi>Socrates</hi> came down,</l>
+                  <l>What Face and Humour, wore the Clown?</l>
+                  <l>Deal frankly with me, ſince we are,</l>
+                  <l>(As well as Cyniques) Chronies here:</l>
+                  <l>For as you are a <hi>God,</hi> you can;</l>
+                  <l>Or bark like Dog, or talk like Man.</l>
+               </sp>
+               <sp>
+                  <speaker>Cer.</speaker>
+                  <l>At firſt he ſullen was, and Mute,</l>
+                  <l>Seem'd very bold, and Reſolute;</l>
+                  <l>And fain wou'd paſs for one that ne'er</l>
+                  <l>Was ſhokt by death, or ſhak'd by fear:</l>
+                  <l>And did behave himſelf, as well,</l>
+                  <l>At's death, as any he, in <hi>Hell:</hi>
+                  </l>
+                  <l>But when within theſe ſhades his foot</l>
+                  <l>He'ad ſet, (and drawn the other to't)</l>
+                  <l>The ('fore ſo ſtout, then) trembling Spark,</l>
+                  <l>Did quake and ſhake, to ſee't ſo Dark.</l>
+                  <l>And when my twice-three Ears I ſhook,</l>
+                  <l>He lookt juſt like one Thunder-ſtrook.</l>
+                  <l>But when I ſnarl'd at him, and groul'd,</l>
+                  <l>And with my gaping three-mouths howl'd:</l>
+                  <l>Snapt at his Shins, (and's Stockins Spoyl'd)</l>
+                  <l>He cry'd (and bellow'd) like a Child;</l>
+                  <l>Tormenting's ſelf, as if he had,</l>
+                  <l>Been drunk (with <hi>Nants</hi>) or Raving Mad.</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>If ſo, as far as I can gather,</l>
+                  <l>Than Valiant, he a Cheat was rather,</l>
+                  <l>And did not when he hither Coaſted</l>
+                  <l>Deſpiſe and bear death as he boaſted.</l>
+               </sp>
+               <sp>
+                  <speaker>Cer.</speaker>
+                  <l>Yes, when he ſaw (I muſt confeſs)</l>
+                  <l>That on he muſt without redreſs,</l>
+                  <l>He ſhew'd ſome Courage, and ('tis ſaid;)</l>
+                  <l>He did not ſeem to be diſmay'd;</l>
+                  <l>But bore it with as bold a Brow,</l>
+                  <l>As the occaſion wou'd allow;</l>
+                  <pb n="2" facs="tcp:137124:14"/>
+                  <l>And lookt, as if 'twas not Neceſſity,</l>
+                  <l>But pure <hi>Chance-Medly</hi> in Adverſity:</l>
+                  <l>Tho I believ'd 'twas partly done,</l>
+                  <l>To be admir'd by th' Lookers on:</l>
+                  <l>Or, to beget the Reputation,</l>
+                  <l>Of Stout, he dy'd that ſurly faſhion.</l>
+                  <l>The ſame too may be ſaid of moſt,</l>
+                  <l>Who for that <hi>Cauſe,</hi> came to our Coaſt:</l>
+                  <l>They're wond'rous Valiant juſt before,</l>
+                  <l>But when they come to th' very Door;</l>
+                  <l>The boldeſt Spirit of 'em fails,</l>
+                  <l>(And look like Dogs, that hang their Tails.)</l>
+               </sp>
+               <sp>
+                  <speaker>Men.</speaker>
+                  <l>But <hi>Cerb'rus</hi> what canſt ſay of me?</l>
+                  <l>When I came down to viſit thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Cer.</speaker>
+                  <l>Thou art a Worthy brave Philoſopher,</l>
+                  <l>And boldly didſt the Ferry croſs over,</l>
+                  <l>As Great <hi>Diogenes</hi> did before thee,</l>
+                  <l>(If there be any truth in Story).</l>
+                  <l>I'le ſwear for thee, thou cam'ſt not here</l>
+                  <l>Unwillingly, by force, or fear,</l>
+                  <l>But in a chearful manner, Gay,</l>
+                  <l>Tickling, and Smiling all the way;</l>
+                  <l>As if you had nought elſe to do,</l>
+                  <l>But to be merry here below;</l>
+                  <l>While others in this place are Weeping,</l>
+                  <l>And alwayes ſuch a Noiſe are Keeping;</l>
+                  <l>One had as good be in a Mill,</l>
+                  <l>(In troth 'tis true) as live in <hi>Hell.</hi>
+                  </l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>
+                  <hi>A Dialogue between</hi> Jupiter, <hi>and</hi> Ganymede.</head>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>HOW is't, my pretty One? Come, ſpeak,</l>
+                  <l>Now I have neither Claw, nor Beak;</l>
+                  <l>You'l Kiſs me ſure: you need not Fear,</l>
+                  <l>Nothing, my Love ſhall Hurt you here.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>Where are they then? I'me zure that you,</l>
+                  <l>A Hugeous <hi>Eagle,</hi> was but now:</l>
+                  <l>Vor as I did my Vathers <hi>Zheep,</hi>
+                  </l>
+                  <l>Upon our Vurzie <hi>Common</hi> keep;</l>
+                  <l>You Zwopt me up, while I lay Kicking,</l>
+                  <l>As if I'de been a Tiny <hi>Chicken.</hi>
+                  </l>
+                  <lg type="triplet">
+                     <l>How cou'd you do it, pray? Vor now,</l>
+                     <l>You look as our <hi>Town</hi>-Zhepherds do;</l>
+                     <l>And are a Man, I vancy too.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>I'me neither <hi>Man,</hi> nor <hi>Eagle,</hi> Love;</l>
+                  <l>But King of all the the Pow'rs Above:</l>
+                  <l>Who ſo Transform'd my ſelf to be,</l>
+                  <l>More Strong and Fit, to Carry thee.</l>
+               </sp>
+               <pb n="3" facs="tcp:137124:14"/>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>But tell me <hi>Grandzir,</hi> if you can,</l>
+                  <l>Who 'tis you are? Or are you <hi>Pan?</hi>
+                  </l>
+                  <l>Yet now I think more on the Matter,</l>
+                  <l>He looks as Wild, as any <hi>Zatyr.</hi>
+                  </l>
+                  <l>
+                     <hi>Horns</hi> on his <hi>Head,</hi> and Cloven <hi>Paw,</hi>
+                  </l>
+                  <l>With <hi>Hairy Feet,</hi> and <hi>Pipe</hi> of <hi>Straw;</hi>
+                  </l>
+                  <l>The only <hi>Marks,</hi> I know him by.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Know'ſt thou no other <hi>Deity?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>Not I, d'you think I'de tell you Lies:</l>
+                  <l>But ev'ry Year we Zacrivize,</l>
+                  <l>To him a <hi>Goat,</hi> in his own <hi>Cave,</hi>
+                  </l>
+                  <l>Becauſe he zhou'd our <hi>Cattle</hi> Zave;</l>
+                  <l>But you, vor all you're zuch a <hi>Ztrapper,</hi>
+                  </l>
+                  <l>I vear, are but zome zly <hi>Kidnapper;</hi>
+                  </l>
+                  <l>Who Get your Living by <hi>Decoys,</hi>
+                  </l>
+                  <l>And Mony make, of Little <hi>Boys.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Didſt thou ne'er hear, of Mighty <hi>Jove?</hi>
+                  </l>
+                  <l>Whoſe <hi>Temple</hi> is in <hi>Ida</hi>'s <hi>Grove,</hi>
+                  </l>
+                  <l>Who Lightens <hi>Heaven</hi> at his Pleaſure;</l>
+                  <l>And Thunders People ſo together.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>O yes, is't you who make that Noiſe,</l>
+                  <l>And Vrighten Women zo, and Boys:</l>
+                  <lg type="triplet">
+                     <l>To whom my Vather, ev'ry year,</l>
+                     <l>Does Zacrivize a <hi>Ram</hi> for Vear,</l>
+                     <l>He ſhou'd make <hi>Bread,</hi> and <hi>Butter</hi> Dear.</l>
+                  </lg>
+                  <l>But why did you znatch me away?</l>
+                  <l>The <hi>Woolf,</hi> will all my <hi>Lamkins,</hi> Zlay.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Thou think'ſt of nothing, but thy <hi>Sheep;</hi>
+                  </l>
+                  <l>Thou'rt now <hi>Immortal,</hi> and muſt keep</l>
+                  <l>Dull <hi>Brutes</hi> no more; but Live with me,</l>
+                  <l>And ever keep <hi>Gods</hi> Company.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>But won't you zet me down again?</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>No: All my Labour's then in Vain.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>But my poor <hi>Dad,</hi> will Nangry be,</l>
+                  <l>If he his <hi>Boy</hi> ſhou'd never zee;</l>
+                  <l>And Beat me 'cauſe I left my <hi>Zheep.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Fear not, I will thee alwayes keep.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>Don't keep me now; I pray now, don't,</l>
+                  <l>I wonnot ztay now, that I won't.</l>
+                  <l>Yet, if you will but let me go;</l>
+                  <l>I'le Zacrivize a <hi>Ram</hi> to you.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>How ſimple is this pretty Boy;</l>
+                  <l>Come ben't diſmay'd, Chear up my Joy:</l>
+                  <l>You muſt forget all things below,</l>
+                  <l>My <hi>Nubſie,</hi> you're in <hi>Heaven</hi> now,</l>
+                  <l>And may do good unto your Friends;</l>
+                  <l>And never think on private Ends.</l>
+                  <l>You ſhall no longer be a Boy,</l>
+                  <l>But have what e'er the <hi>God</hi>'s Enjoy.</l>
+                  <pb n="4" facs="tcp:137124:15"/>
+                  <l>Inſtead of <hi>Butter, Cheeſe,</hi> and <hi>Whey,</hi>
+                  </l>
+                  <l>Have <hi>Nectar,</hi> and <hi>Ambraſia:</hi>
+                  </l>
+                  <l>And have your <hi>Star</hi> amongſt the Reſt,</l>
+                  <l>And Shine as Glorious, as the Beſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>That's mighty Brave: But Zir, if I</l>
+                  <l>Wou'd Play, Who'll keep me Company?</l>
+                  <l>For when I was on <hi>Ida</hi>'s <hi>Hill,</hi>
+                  </l>
+                  <l>I had my <hi>Playvellows</hi> at Will.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>
+                     <hi>Cupid,</hi> my Lad, ſhall Play with thee,</l>
+                  <l>If thou wilt Brisk, and Chearful be:</l>
+                  <l>For he's as Arch a <hi>Wagg,</hi> as thou;</l>
+                  <l>But mind no more the Things below.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>I marry Zir! that's pure indeed,</l>
+                  <l>But have you any Vlocks to Veed?</l>
+                  <lg type="triplet">
+                     <l>Elſe what ſhall I do here Above?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <lg type="triplet__cont.">
+                     <l>Thou ſhalt be <hi>Cup-bearer</hi> to <hi>Jove,</hi>
+                     </l>
+                     <l>And fill him <hi>Nectar</hi> little Love.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <lg type="triplet">
+                     <l>Is that zo good as <hi>Milk,</hi> and <hi>Whey?</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <lg type="triplet__cont.">
+                     <l>Better, my Joy by far, than they;</l>
+                     <l>And thou ſhalt Drink it ev'ry day.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>Where muſt I Lye a Nights, Zir tho?</l>
+                  <l>With <hi>Cupid,</hi> my Vine <hi>Playvellow:</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>No, no, with me; my pretty One.</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>What, are you 'vraid to lye alone?</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>'Tis better with a pretty Lad;</l>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>Zure you are Drunk good Zir, or Mad;</l>
+                  <l>What good can Pretty do a Bed?</l>
+                  <l>When Zleep is got into ones Head.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>Sleep 's not ſo Pleaſant, when Alone;</l>
+                  <l>Two is much better (Dear) than One.</l>
+               </sp>
+               <sp>
+                  <speaker>Gen.</speaker>
+                  <l>When I lay with my Vather, he</l>
+                  <l>Did alwayes vex, and vret at me;</l>
+                  <l>Becauſe I zuch a doo did keep,</l>
+                  <l>Tumbling, and talking in my Zleep:</l>
+                  <l>And Puncht him on the zides and head,</l>
+                  <l>And kickt him almoſt out oth' Bed,</l>
+                  <l>That he wou'd zend me to my Mother,</l>
+                  <l>I allwayes kept zuch ztir and pother,</l>
+                  <l>If you took me vor this Idain,</l>
+                  <l>You'l quickly zet me down again.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <lg type="triplet">
+                     <l>I than thy Father love thee more,</l>
+                     <l>I'le kiſs and handle thee all o're:</l>
+                     <l>Beſides, I've other things in ſtore.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Gan.</speaker>
+                  <l>You may do what you will, and keep</l>
+                  <l>What ztir you pleaze, but I will Zleep.</l>
+               </sp>
+               <sp>
+                  <speaker>Jup.</speaker>
+                  <l>We'll talk of this another day.</l>
+                  <l>Here! take him <hi>(Mercury)</hi> away,</l>
+                  <l>And ſee'm drink Imortality,</l>
+                  <l>That he may ſerve's in Quallity;</l>
+                  <pb n="5" facs="tcp:137124:15"/>
+                  <l>Of Cupbearer, and teach the Fool,</l>
+                  <l>To make a Leg, and give the Bowl.</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>A Dialogue between <hi>Crates</hi> and <hi>Diogenes.</hi>
+               </head>
+               <sp>
+                  <speaker>Cra.</speaker>
+                  <l>DID you know that Old <hi>Cinque</hi> and <hi>Cater,</hi>
+                  </l>
+                  <l>Who ſuch a ſtir made on the Water;</l>
+                  <l>With Ships and Boats of ev'ry ſize,</l>
+                  <l>As if th' Sea he'd Monopolize?</l>
+                  <l>He liv'd at <hi>Corinth</hi> in the High Houſe,</l>
+                  <l>His Name was (let me ſee) <hi>Maerichus;</hi>
+                  </l>
+                  <lg type="triplet">
+                     <l>Whoſe Couſin was, as great a Raſcal</l>
+                     <l>As ever drank of Wine a flaſque all</l>
+                     <l>Believe me, or his Neighbours, ask All;</l>
+                  </lg>
+                  <l>And full as Rich, and Old as he,</l>
+                  <l>And had as much Frigidity;</l>
+                  <l>As near, and Covetous he was,</l>
+                  <l>And ev'ry whit as much an Aſs:</l>
+                  <l>Repeating ſtill that piece of Honour,</l>
+                  <l>Deliver'd to the World by <hi>Homer:</hi>
+                  </l>
+                  <l>Into his Ears, <hi>Do thou kill me,</hi>
+                  </l>
+                  <l>Chuſe which thou wilt, or <hi>I'<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e Kill thee:</hi>
+                  </l>
+                  <l>'Tis pitty that we both ſhou'd live,</l>
+                  <l>Let him take all who muſt Survive;</l>
+                  <l>For you muſt know, they had made over</l>
+                  <l>Their whole Eſtates to one another;</l>
+                  <l>Conſulted all the South-ſayers,</l>
+                  <l>
+                     <hi>Conjurers</hi> and <hi>Aſtrologers,</hi>
+                  </l>
+                  <l>To know whom <hi>Monſieur Mors</hi> his Worſhip</l>
+                  <l>Wou'd give it all, by Survivorſhip.</l>
+                  <l>But theſe Damn'd ſcoundrels, one wou'd Wheedle</l>
+                  <l>And then the other <hi>Trout,</hi> they'd tickle;</l>
+                  <l>So both of them a while were eas'd</l>
+                  <l>Tho neither of 'em Thro'ly pleas'd;</l>
+                  <l>For all thoſe Fellows at the beſt,</l>
+                  <l>Are Cheats, and prate for Intereſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>But what became on't, Prithee <hi>Crates.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Cra.</speaker>
+                  <l>Why I will tell thee what their fate was:</l>
+                  <l>They both together on a day,</l>
+                  <l>Dropt into th' Grave (as one may ſay)</l>
+                  <l>And left their Riches all to them,</l>
+                  <l>They ne're ſo much as in a Dream,</l>
+                  <l>Did ever think of, or the (Wench-on)</l>
+                  <l>
+                     <hi>Conjurers</hi> did ever Mention.</l>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>I'm glad on't Faith, it makes me Jolly,</l>
+                  <l>And much delights me: but ſuch Folly,</l>
+                  <l>By thou and I, was ne're Committed;</l>
+                  <l>Or were we e're ſo baſely Cheated:</l>
+                  <pb n="6" facs="tcp:137124:16"/>
+                  <l>(Such fooliſh idle things, but mean is,)</l>
+                  <l>I never wiſh'd that <hi>Antiſthenes</hi>
+                  </l>
+                  <l>Wou'd die, and leave his Oaken Plant</l>
+                  <l>To me, tho I ſtood then in want:</l>
+                  <l>Or, didſt thou ever wiſh for mine,</l>
+                  <l>That <hi>Tub,</hi> and <hi>Scrip,</hi> might both be thine.</l>
+               </sp>
+               <sp>
+                  <speaker>Crates.</speaker>
+                  <l>That's true, becauſe we were content</l>
+                  <l>With that ſmall Stock kind Fortune ſent;</l>
+                  <l>And I thought 'twas enough t' Inherit</l>
+                  <l>Thy Virtues, and thy God-like Spirit:</l>
+                  <l>As thou had'ſt done, on the ſame Score,</l>
+                  <l>By Great <hi>Antiſthenes</hi> before.</l>
+                  <l>Which Wealth is more to be deſir'd,</l>
+                  <l>Tho not of late ſo much Admir'd;</l>
+                  <l>You ne're ſaw any come to us,</l>
+                  <l>To learn how to be Virtuous;</l>
+                  <l>Whereas you ſee they never fail</l>
+                  <l>Purſuing Riches, Tooth and Nail;</l>
+                  <l>While others ſtriving to be Great,</l>
+                  <l>Admiring Titles, Pomp and State;</l>
+                  <l>Will live on Pottage, Herbs and Carrot,</l>
+                  <l>So they may hurry't in a Chariot,</l>
+                  <lg type="triplet">
+                     <l>Attended on by tatter'd Pages,</l>
+                     <l>With Lanthorn Jaws, ſtarv'd at Board-Wages,</l>
+                     <l>Which ne're was known in former Ages.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Dio.</speaker>
+                  <l>It is no Wonder this to ſee,</l>
+                  <l>Their Souls are ſpoyl'd by Luxury:</l>
+                  <l>They're void of Honour, and ſo Vain,</l>
+                  <l>They cannot any good contain:</l>
+                  <lg type="triplet">
+                     <l>They're like th' <hi>Bellides</hi> here in <hi>Hell,</hi>
+                     </l>
+                     <l>Whoſe Barrel runs out faſter ſtill,</l>
+                     <l>Than they have Power and Strength to fill:</l>
+                  </lg>
+                  <l>But ſhou'd you dare to be ſo bold</l>
+                  <l>As Venture, but to touch their Gold,</l>
+                  <l>So much to good men they are helps,</l>
+                  <l>You might as well a Lyoneſs Rob of Whelps.</l>
+               </sp>
+               <sp>
+                  <speaker>Crates.</speaker>
+                  <l>Beſides, this Comfort too we have,</l>
+                  <l>We carry all our Wealth to th' Grave;</l>
+                  <l>Whileſt they (than us) do bring no more,</l>
+                  <l>So leave behind 'em all their Store:</l>
+                  <l>And honeſt <hi>Charon</hi> (if they've any)</l>
+                  <l>Does eaſe 'em of their laſt poor Penny:</l>
+                  <l>VVhich is thruſt in their Mouths by thoſe</l>
+                  <l>Who put 'em on their Bur'ing Cloaths.</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <pb n="7" facs="tcp:137124:16"/>
+               <head>A Dialogue between <hi>Charon, Mercury,</hi> (a Company of Dead <hi>Men,) Menippus, Charmoleus, Lampichus, Damaſias,</hi> a <hi>Philoſopher,</hi> and a <hi>Rhetorician.</hi>
+               </head>
+               <sp>
+                  <speaker>Charon.</speaker>
+                  <l>COme Liſten, All, to what I ſay,</l>
+                  <l>My <hi>Ferry-Boat</hi>'s gone to Decay;</l>
+                  <l>It Leaks, is Old, and very Rotten,</l>
+                  <l>Beſides, my <hi>Bench</hi> and <hi>Oars</hi> are Broken;</l>
+                  <l>Therefore ſit ſtill, and Trim it well,</l>
+                  <l>Or elſe, twon't Carry you to <hi>Hell:</hi>
+                  </l>
+                  <l>For here's ſo many come together,</l>
+                  <l>That if we ſhou'd but have foul Weather,</l>
+                  <l>Their <hi>Luggage</hi> is fo very Great,</l>
+                  <l>They will my <hi>Wherry</hi> Over-ſet:</l>
+                  <l>Then thoſe that cannot Swim, will be,</l>
+                  <l>In a pretty Pickle preſently.</l>
+               </sp>
+               <sp>
+                  <speaker>The Dead.</speaker>
+                  <l>What ſhall we do than, prithee <hi>Charon?</hi>
+                  </l>
+                  <l>For to get over <hi>Acheron?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Charon.</speaker>
+                  <l>I'le tell you, you muſt come as bare,</l>
+                  <l>As when you firſt breath'd <hi>Grecian</hi> Air;</l>
+                  <l>And leave your Trumpery on the Shore,</l>
+                  <l>And ne'r ſo much as think on't more.</l>
+                  <l>And ſince my <hi>Boat</hi>'s ſo very Small,</l>
+                  <l>'Tis well if then it hold ye All.</l>
+                  <l>Be it thy Charge too, Meſſenger,</l>
+                  <l>T' Examine ev'ry Paſſenger.</l>
+                  <l>That none but half-Stav'd Fellows come,</l>
+                  <l>Expecting in my <hi>Wherry</hi> Room.</l>
+                  <l>Take Care too, and be ſure you Mind 'em,</l>
+                  <l>To leave their <hi>Baggage</hi> all behind 'em;</l>
+                  <l>Then on the <hi>Ladder</hi> ſtand Equipt,</l>
+                  <l>And force 'em all to enter Stript.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury,</speaker>
+                  <l>I will Obey, and now let's ſee,</l>
+                  <l>Who 'tis comes firſt oth' Company.</l>
+               </sp>
+               <sp>
+                  <speaker>Menip.</speaker>
+                  <l>'Tis I, <hi>Menippus,</hi> who am come,</l>
+                  <l>To be a little Troubleſome.</l>
+                  <l>Tho I have thrown into the <hi>Lake,</hi>
+                  </l>
+                  <l>My <hi>Staff,</hi> and <hi>Wallet,</hi> for the ſake</l>
+                  <l>Of eaſy <hi>Waftage:</hi> And 'tis well,</l>
+                  <l>I brought no <hi>Gown,</hi> nor <hi>Surſingle;</hi>
+                  </l>
+                  <l>(Tho if the Naked Truth. were known,</l>
+                  <l>In all my Life, I ne'r had One.)</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Enter <hi>Menippus</hi> to the <hi>Sculler,</hi>
+                  </l>
+                  <l>Thou beſt of Men, before 'tis fuller;</l>
+                  <l>And take the Higheſt Place, that thou,</l>
+                  <l>From thence may'ſt ſee, what others do;</l>
+                  <pb n="8" facs="tcp:137124:17"/>
+                  <l>But who is this that comes to ſee us?</l>
+               </sp>
+               <sp>
+                  <speaker>Charmoleus.</speaker>
+                  <l>I am the Lovely <hi>Charmoleus,</hi>
+                  </l>
+                  <l>Who for a Kiſs, took as much Money's,</l>
+                  <l>As wou'd have Purchaſt'd Fifty <hi>Coneys.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Caſt off your <hi>Beauty,</hi> and your <hi>Pride,</hi>
+                  </l>
+                  <l>Your <hi>Lips, Red-Cheeks,</hi> and <hi>Hair</hi> beſide:</l>
+                  <l>And do not think to enter in</l>
+                  <l>To Hell, and ſleep in a Whole Skin;</l>
+                  <l>But pull it off, and do not Venture.</l>
+                  <l>'Tis Well, ſo now you'r fit to Enter.</l>
+                  <l>But what Grim Sir is that, when Dead,</l>
+                  <l>Dares Venture with a Crown On's Head?</l>
+               </sp>
+               <sp>
+                  <speaker>Lampichus.</speaker>
+                  <l>I am Prince <hi>Lampichus</hi> of <hi>Gela.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Why thus Loaden, prithee Fellow?</l>
+               </sp>
+               <sp>
+                  <speaker>Lampichus.</speaker>
+                  <l>Why ſhou'd a Prince come Naked too?</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>A Prince ſhou'd not; but Dead Men do.</l>
+                  <l>Therefore put off your <hi>Ornaments.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Lampichus.</speaker>
+                  <l>There Lye, my Rich <hi>Habiliments:</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>And you muſt put off too, (beſide,)</l>
+                  <l>Your <hi>Hanghty-Looks,</hi> your <hi>State,</hi> and <hi>Pride;</hi>
+                  </l>
+                  <l>For if they Enter, you ſhall ſee,</l>
+                  <l>They'l Sink the <hi>Boat</hi> immediately.</l>
+               </sp>
+               <sp>
+                  <speaker>Lampichus.</speaker>
+                  <l>Let me but keep my <hi>Robe,</hi> and <hi>Crown:</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>No, you muſt even them lay down.</l>
+               </sp>
+               <sp>
+                  <speaker>Lampichus.</speaker>
+                  <l>There then, what more have I to do?</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>You muſt put off your <hi>Fury</hi> too.</l>
+                  <l>To <hi>Wit,</hi> and <hi>Knowledge,</hi> your pretence,</l>
+                  <l>Your <hi>Cruelty,</hi> and <hi>Inſolence.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Lampichus.</speaker>
+                  <l>See, I am Naked to the Skin,</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>'Tis very well, Now Enter in.</l>
+                  <l>What great Fool's this? (Fat as an <hi>Oſtler.</hi>)</l>
+               </sp>
+               <sp>
+                  <speaker>Damaſias.</speaker>
+                  <l>I am <hi>Damaſias</hi> the <hi>Wraſtler.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>I thought ſo, you Iv'e often ſeen.</l>
+               </sp>
+               <sp>
+                  <speaker>Damaſias.</speaker>
+                  <l>True, therefore Naked, let me in.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>You are not Naked Underſtood,</l>
+                  <l>When Cloath'd with all this <hi>Fleſh,</hi> and <hi>Blood:</hi>
+                  </l>
+                  <lg type="triplet">
+                     <l>Therefore pray Strip; nay, you muſt do't,</l>
+                     <l>And Caſt away your <hi>Crowns</hi> to Boot;</l>
+                     <l>For elſe your Waight will Sink the <hi>Boat.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Damaſias,</speaker>
+                  <l>See, I Obey, and am Induſtrious,</l>
+                  <l>To make my Slender <hi>Ghoſt</hi> Illuſtrious!
+<note n="*" place="margin">See an E<g ref="char:EOLhyphen"/>legy on Prince <hi>Rupert.</hi>
+                     </note>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>So, now come in, for thou'rt, as Fit,</l>
+                  <l>As any ever Enter'd yet:</l>
+                  <l>You <hi>Crato,</hi> throw away your Riches,</l>
+                  <l>You that Wore <hi>Coats,</hi> inſtead of <hi>Breeches;</hi>
+                  </l>
+                  <l>And bring not here your <hi>Poetrie,</hi>
+                  </l>
+                  <l>Your <hi>Titles,</hi> nor your <hi>Pedigree.</hi>
+                  </l>
+                  <pb n="9" facs="tcp:137124:17"/>
+                  <l>Your Statues neither, which for Mony</l>
+                  <l>The City did beſtow upon you:</l>
+                  <l>And ſpeak not of your Tomb, for that</l>
+                  <l>From the Remembrance gathers weight.</l>
+               </sp>
+               <sp>
+                  <speaker>Crato.</speaker>
+                  <l>Well I will do't, for who that lives,</l>
+                  <l>But needs muſt go, when th' Devil drives.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Bleſs me! I think the man is mad,</l>
+                  <l>What carry <hi>Trophies</hi> now you'r dead?</l>
+               </sp>
+               <sp>
+                  <speaker>Crato.</speaker>
+                  <l>Who for this Honour wou'd not ſtrive,</l>
+                  <l>When 'twas a Cities Donative.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Come leave your Arms t' your living Race,</l>
+                  <l>For Hell's a very civil Place:</l>
+                  <l>What ſhade is that? who does behave</l>
+                  <l>Himſelf ſo well and looks ſo Grave?</l>
+                  <l>Who knits his brows, in ſuch ſtrange faſhion,</l>
+                  <l>And is ſo fill'd with Contemplation;</l>
+                  <l>And wears ſo very long a Beard,</l>
+                  <l>(Enough to make a Horſe afear'd.)</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>He is, <hi>Mercury,</hi> a <hi>Philoſopher,</hi>
+                  </l>
+                  <l>Who in one hand two Eggs can toſs over:</l>
+                  <l>A <hi>Jugler, Mountebank</hi> or <hi>Zainye,</hi>
+                  </l>
+                  <l>Who can be ev'ry thing to any:</l>
+                  <l>Strip him and you ſhall ten to one,</l>
+                  <l>Find Pretty things beneath his Gown.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Come, lay aſide your Gown and Dreſs,</l>
+                  <l>And let's behold your Nakedneſs.</l>
+                  <l>O <hi>Jupiter!</hi> What Ignorance,</l>
+                  <l>Intricate Notions, Arrogance,</l>
+                  <l>Vain-Glory, Trifles, and Contention,</l>
+                  <l>(With many more too long to mention)</l>
+                  <l>Did this proud Fellow car' about him</l>
+                  <l>(That he'l be nothing ſure without 'em:)</l>
+                  <l>Pleaſures and Gold too, (by the bye,)</l>
+                  <l>With Wantoneſs and Luxury;</l>
+                  <l>All this I know, tho you'd it hide;</l>
+                  <l>Caſt off your Lying too, and Pride;</l>
+                  <l>Your fond Conceit, that you are bleſt</l>
+                  <l>With Gifts far better than the beſt;</l>
+                  <l>For if you enter burden'd ſo,</l>
+                  <l>A firſt Rate Ship won't carry you.</l>
+               </sp>
+               <sp>
+                  <speaker>Philoſopher.</speaker>
+                  <lg type="triplet">
+                     <l>Since you will have it ſo, 'tis done,</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <lg type="triplet__cont.">
+                     <l>Pull off his Beard which is ſo long,</l>
+                     <l>There's no enduring't, 'tis ſo ſtrong:</l>
+                  </lg>
+                  <l>And does in filth ſo much abound,</l>
+                  <l>I do believe it weighs a pound.</l>
+               </sp>
+               <sp>
+                  <speaker>Philoſopher.</speaker>
+                  <l>But who ſhall cut it <hi>Mercury?</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>
+                     <hi>Menippus,</hi> he'll do't Cleverly:</l>
+                  <pb n="10" facs="tcp:137124:18"/>
+                  <lg type="triplet">
+                     <l>Here, take the Axe with which the Boat</l>
+                     <l>We mend, but have a care of's Throat;</l>
+                     <l>And Chop it off, 'twill ſave a Groat.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>Lend me the Saw: for that will do,</l>
+                  <l>And't's more Ridiculous o'th' two.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>No, do't with Axe now if you can:</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>So, now you look like any man;</l>
+                  <l>Now this Damn'd Plaguey ſtink is gon:</l>
+                  <l>But ſhall I leave his Eye-brows on?</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>O Yes, for thoſe he us'd when he,</l>
+                  <l>Did ſtrive to look moſt Piouſly:</l>
+                  <l>What, doſt thou cry? (O fooliſh Man)</l>
+                  <l>Afraid of Death! Come enter than.</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>He ſtill hath one thing ſtrong I ſee.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>What is't?</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>Confounded Flattery.</l>
+               </sp>
+               <sp>
+                  <speaker>Philoſopher.</speaker>
+                  <l>Do you <hi>Menippus</hi> than lay by</l>
+                  <l>Your Boldneſs, Joques, and Liberty.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>By no means; keep them ſtill, for they</l>
+                  <l>Being light, will help us in our way:</l>
+                  <l>And you too Pleader, pray lay by</l>
+                  <l>Your Similitudes and Oratory;</l>
+                  <l>Your Barbariſms, and other Trade,</l>
+                  <l>Which you Damn'd Rhetoricians made.</l>
+               </sp>
+               <sp>
+                  <speaker>Rhetorician.</speaker>
+                  <l>'Tis done.—</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>'Tis well, now ſet from ſhore,</l>
+                  <l>Pull up the Anchor, Ply the Oar;</l>
+                  <l>Haul in the Ladder, ſpread the Sayle:</l>
+                  <l>Now for a brisk and nimble Gale.</l>
+                  <l>Look to the Stern there, you can tell</l>
+                  <l>
+                     <hi>Charon</hi> beſt how; Hey! Hey! for Hell.</l>
+                  <l>Why howle ye Fools? What, are ye afear'd,</l>
+                  <l>Sure thou cry'ſt, 'cauſe thou'ſt loſt thy Beard.</l>
+               </sp>
+               <sp>
+                  <speaker>Philoſopher.</speaker>
+                  <l>No, 'tis (tho ye on me retort all)</l>
+                  <l>Becauſe I thought the Soul Immortal.</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>He lies, he does not weep for that;</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Prithee <hi>Menippus</hi> than for what?</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>Becauſe he can't be invited more,</l>
+                  <l>To Coſtly Suppers as before;</l>
+                  <l>Nor muffled up ſteal forth by Night,</l>
+                  <l>To pleaſe his Beaſtly Appetite;</l>
+                  <l>When he's not able for to do,</l>
+                  <l>What Nature calls Mankind unto;</l>
+                  <l>Yet he next Morn does Wiſdom Preach,</l>
+                  <l>And Virtue does pretend to Teach:</l>
+                  <l>And takes mens Money too, to do't;</l>
+                  <l>Theſe are the things that grieve the Sot.</l>
+               </sp>
+               <pb n="11" facs="tcp:137124:18"/>
+               <sp>
+                  <speaker>Philoſopher.</speaker>
+                  <l>Art thou not troubled, being dead?</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>Thou art a ſilly Loggerhead</l>
+                  <l>To think ſo, when I made a Venture,</l>
+                  <l>And came my ſelf, 'fore I was ſent for.</l>
+                  <l>But heark from Earth, I hear a Noiſe!</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>'Tis a Company of Men and Boyes;</l>
+                  <l>Who are met together to be Merry,</l>
+                  <l>Since <hi>Lampichus</hi> came into th' <hi>Wherry:</hi>
+                  </l>
+                  <l>The Women Maull his Wifes poor bones,</l>
+                  <l>VVhile at his Children Boys throw Stones:</l>
+                  <l>Others in <hi>Sycyconia</hi> Praiſe,</l>
+                  <l>And him <hi>Diophantus</hi> gives the Bayes;</l>
+                  <l>For the Oration he did bawl,</l>
+                  <l>At our Friend <hi>Crato's</hi> Funeral:</l>
+                  <l>
+                     <hi>Damaſias's</hi> Mother too i'th' Faſhion,</l>
+                  <l>VVith other Fools makes Lamentation:</l>
+                  <l>But no body <hi>Menippus</hi> cries,</l>
+                  <l>To Celebrate thy Obſequies.</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>Not ſo, for when they bury me,</l>
+                  <l>You'l hear the Doggs bark Dolefully:</l>
+                  <l>The Crows ſhall beat their VVings, and all</l>
+                  <l>To Solemnize my Funeral.</l>
+               </sp>
+               <sp>
+                  <speaker>Mercury.</speaker>
+                  <l>Thou'rt Valiant to a Miracle;</l>
+                  <l>So, now we are arriv'd at Hell:</l>
+                  <l>Go all to th' Court of Juſtice ſtraight,</l>
+                  <l>VVhile I and <hi>Charon</hi> get more Fraight.</l>
+               </sp>
+               <sp>
+                  <speaker>Menippus.</speaker>
+                  <l>Farewel <hi>Mercury,</hi> we will on;</l>
+                  <l>And ſee what here is to be done.</l>
+                  <l>VVhat will become of you my Friends?</l>
+                  <l>You muſt b' Arraign'd; beſides the <hi>Fiends</hi>
+                  </l>
+                  <l>Have ſtrange Prodigious Methods here</l>
+                  <l>To Puniſh; ſome with Wheels they Tear,</l>
+                  <l>Some they Expoſe in Frozen Parts,</l>
+                  <l>Where Vultures prey upon their Hearts.</l>
+                  <l>Others do Maull their fleſh and bones,</l>
+                  <l>By Rolling weighty Craggy Stones;</l>
+                  <l>While others are with Serpents Laſht,</l>
+                  <l>And into boyling Caldrons daſht.</l>
+                  <lg type="triplet">
+                     <l>Here all your thoughts will open'd be</l>
+                     <l>That ev'ry one Accordingly,</l>
+                     <l>May have his Juſt reward of Miſery.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>
+                  <hi>A Dialogue between</hi> Pluto <hi>and</hi> Terpſion.</head>
+               <sp>
+                  <speaker>Ter.</speaker>
+                  <l>IT is Unreaſonable <hi>Pluto,</hi>
+                  </l>
+                  <l>That I ſhou'd Dye ſo Youthful (you know;)</l>
+                  <l>And that at <hi>Ninety-Odd, Thucritus</hi>
+                  </l>
+                  <l>Shou'd ſtill remain Alive, to Spite us.</l>
+               </sp>
+               <pb n="12" facs="tcp:137124:19"/>
+               <sp>
+                  <speaker>Plu.</speaker>
+                  <l>You are miſtan'e; tis very Juſt,</l>
+                  <l>That ſuch baſe men ſhou'd ſtill dye firſt:</l>
+                  <l>For thoſe alone deſerve to Live,</l>
+                  <l>Who Wiſh their <hi>Friends,</hi> and <hi>Kin'</hi> may Thrive;</l>
+                  <l>And thoſe do Merit well the <hi>Grave,</hi>
+                  </l>
+                  <l>Who Wiſh <hi>Folks</hi> Dead, their <hi>Wealth</hi> to have.</l>
+               </sp>
+               <sp>
+                  <speaker>Ter.</speaker>
+                  <l>But is't not Juſt, the Old ſhou'd Dye,</l>
+                  <l>And leave their <hi>Gold</hi> to ſuch as I?</l>
+               </sp>
+               <sp>
+                  <speaker>Plu.</speaker>
+                  <l>Thou mak'ſt new Laws, when thou doſt Wiſh,</l>
+                  <l>That thoſe who can't Enjoy the Fleſh,</l>
+                  <l>Shou'd be no more: Beſides, 'tis Vain,</l>
+                  <l>For <hi>Heav'n</hi> (certainly) did Ordain,</l>
+                  <l>More Stranger Things than this ſhou'd be:</l>
+                  <l>(And that from all Eternity.)</l>
+               </sp>
+               <sp>
+                  <speaker>Ter.</speaker>
+                  <l>'Tis their <hi>Decrees</hi> that I too Blame;</l>
+                  <l>Beſides, methinks it is a Shame,</l>
+                  <l>That Old Men ſhou'd remain ſo long,</l>
+                  <l>And Death take off, the Brisk, and Young:</l>
+                  <l>As for Example (mind I pray)</l>
+                  <l>That an Old Fellow doting Grey,</l>
+                  <l>With <hi>Palſy, Pox,</hi> and <hi>Gout,</hi> at once,</l>
+                  <l>A ſniveling fribbling Bag of Bones,</l>
+                  <l>Who makes no other Uſe of's Senſes,</l>
+                  <l>Than peſtring People with Pretences;</l>
+                  <l>A Walking <hi>Church-yard,</hi> Living <hi>Grave,</hi>
+                  </l>
+                  <l>A Frigid, Senſeleſs, Teſty <hi>Knave,</hi>
+                  </l>
+                  <l>Shou'd Live, when ſuch Young Men as I,</l>
+                  <l>Who Brisk, and Vigorous are, muſt Dye.</l>
+                  <lg type="triplet">
+                     <l>'Tis juſt like one who's made by Force</l>
+                     <l>A <hi>Slave,</hi> for better, and for worſe,</l>
+                     <l>Where th' <hi>Gray Mare,</hi> proves the better <hi>Horſe.</hi>
+                     </l>
+                  </lg>
+                  <l>Or other wayes t' Expreſs the <hi>Thing,</hi>
+                  </l>
+                  <l>Like <hi>Rivers,</hi> mounting to their <hi>Spring;</hi>
+                  </l>
+                  <l>But at the laſt, I think 'tis Vain,</l>
+                  <l>Since we know nothing, to Complain.</l>
+               </sp>
+               <sp>
+                  <speaker>Plu.</speaker>
+                  <l>Why do you than ſo much admire,</l>
+                  <l>And what is other men's, deſire?</l>
+                  <l>Why ſo much Love do you pretend,</l>
+                  <l>To Rich <hi>Old Men?</hi> (and call 'em <hi>Friend;</hi>)</l>
+                  <l>Wheadle them too, to call you Son,</l>
+                  <l>As if your buſineſs then were done;</l>
+                  <l>To make us Laugh at you, when they,</l>
+                  <l>Attend you to your <hi>Houſe</hi> of <hi>Clay.</hi>
+                  </l>
+                  <l>For it is Pleaſant (Troth) to us,</l>
+                  <l>To ſee men Brisk and Vigorous,</l>
+                  <l>Carreſs Old <hi>Age,</hi> and be Enamour'd,</l>
+                  <l>VVith what's ſo Fulſome and Ill-favour'd;</l>
+                  <l>Yet this ye only do when They're</l>
+                  <l>Or Childleſs, or without an Heir;</l>
+                  <pb n="13" facs="tcp:137124:19"/>
+                  <l>Then you in hopes to get their <hi>Gold,</hi>
+                  </l>
+                  <l>Direct your Courtſhip to the Old.</l>
+                  <l>
+                     <hi>Gold!</hi> which can make the <hi>Aged</hi> Young,</l>
+                  <l>The <hi>Cripple</hi> VValk, the <hi>Feeble</hi> Strong,</l>
+                  <l>The <hi>
+                        <g ref="char:V">Ʋ</g>gly</hi> Handſome, <hi>Swarthy</hi> Fair,</l>
+                  <l>And teach the Cunning <hi>Knave</hi> to Swear;</l>
+                  <lg type="triplet">
+                     <l>May well perſwade you, for I ſee,</l>
+                     <l>All Humane-kind ſo Worſhip me,</l>
+                     <l>That Gold's their only Deity.</l>
+                  </lg>
+                  <l>But theſe Old <hi>Men</hi> oft Countermine,</l>
+                  <l>And pay you off in your own Coyn;</l>
+                  <l>For if it happen to their Lot,</l>
+                  <l>That many <hi>Children</hi> they have Got;</l>
+                  <l>They will pretend 'fore you t' abuſe 'em,</l>
+                  <l>And Beat, and Thump, and baſely Uſe 'em,</l>
+                  <l>That they may be by you preſented,</l>
+                  <l>And your Vain hopes in part contented:</l>
+                  <l>Yet when Grim <hi>Death,</hi> on them does call,</l>
+                  <l>They'l Settle on their Children All,</l>
+                  <l>As Nature at the Firſt deſign'd it;</l>
+                  <l>(I wiſh that all the VVorld wou'd mind it,)</l>
+                  <l>And not make all this Factious 'Do,</l>
+                  <l>But give to ev'ry one their Due;</l>
+                  <l>VVhile you may eaſily count your Gains,</l>
+                  <l>And take your Labour for your Pains.</l>
+               </sp>
+               <sp>
+                  <speaker>Ter.</speaker>
+                  <l>And this it is ſpoyls my Content,</l>
+                  <l>For I a VVorld of Mony ſpent,</l>
+                  <l>In Courting this Old <hi>Hypocrite,</hi>
+                  </l>
+                  <l>This Fumbling Limberham'd <hi>Thucrite:</hi>
+                  </l>
+                  <l>For ev'ry day he had the hick up,</l>
+                  <l>VVhich made me think, he ſtraight wou'd kick up;</l>
+                  <l>And caus'd me to preſent him double,</l>
+                  <l>That I my Rivalls all might bubble;</l>
+                  <l>Which I believe (I Vow and Swear)</l>
+                  <l>Was the Cauſe of my coming here:</l>
+                  <l>For I in nothing cou'd delight,</l>
+                  <l>Nor did I ſleep by Day or Night.</l>
+                  <l>And tho of <hi>Gloves</hi> I made a <hi>Cap</hi> well,</l>
+                  <l>I cou'd not ſteal a Nap i'th' <hi>Chappel;</hi>
+                  </l>
+                  <l>At which this Curſed <hi>Dogg</hi> did flout,</l>
+                  <l>VVhen the Old <hi>Women</hi> lay'd me out.</l>
+               </sp>
+               <sp>
+                  <speaker>Plu.</speaker>
+                  <l>Old Heart of <hi>Oak!</hi> Hold up thy Head</l>
+                  <l>And ſee 'em all as door-nail Dead.</l>
+               </sp>
+               <sp>
+                  <speaker>Ter.</speaker>
+                  <l>I wiſh <hi>Chariades</hi> might dye,</l>
+                  <l>Before him too, as well as I.</l>
+               </sp>
+               <sp>
+                  <speaker>Plu.</speaker>
+                  <l>
+                     <hi>Melanthus, Phido,</hi> all ſhall come,</l>
+                  <l>I have already read their Doom.</l>
+               </sp>
+               <sp>
+                  <speaker>Ter.</speaker>
+                  <l>That pleaſes me to th' <hi>Heart,</hi> and <hi>Liver,</hi>
+                  </l>
+                  <l>Happy <hi>Thucritus!</hi> Live for Ever.</l>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <pb n="14" facs="tcp:137124:20"/>
+               <head>A Dialogue between <hi>Notus</hi> and <hi>Zephyrus.</hi>
+               </head>
+               <sp>
+                  <speaker>Notus.</speaker>
+                  <l>D'b'uy! Friend <hi>Zephyrus,</hi> I have been,</l>
+                  <l>Where I more rarer Sights have ſeen,</l>
+                  <l>Than e'er I ſaw before, (I vow)</l>
+                  <l>Tell me dear <hi>Zeph.</hi> ſaw'ſt thou 'em too?</l>
+               </sp>
+               <sp>
+                  <speaker>Zeph.</speaker>
+                  <l>Not I in troth, I kept my Station,</l>
+                  <l>And Laboring was in my Vocation,</l>
+                  <l>Toward the <hi>Indies</hi> I was blowing</l>
+                  <l>And only ſaw what there was doing.</l>
+                  <l>The <hi>Bantamer</hi> I ſaw, (for ſhapes)</l>
+                  <l>As Comely as a <hi>Jackanapes,</hi>
+                  </l>
+                  <l>(Tho ſome large <hi>Monkeys,</hi> I ſuppoſe,</l>
+                  <l>I've ſeen more handſome 'bout the Noſe:)</l>
+                  <l>Some other Beaſts too I ſaw there,</l>
+                  <l>But nothing elſe I vow and ſwear.</l>
+               </sp>
+               <sp>
+                  <speaker>Notus.</speaker>
+                  <l>Well, well! ſay what you will 'tis vain,</l>
+                  <l>The like can ne'er be ſeen again:</l>
+                  <l>Do'ſt know King <hi>Agenor</hi> my Lad?</l>
+               </sp>
+               <sp>
+                  <speaker>Zeph.</speaker>
+                  <l>The beautiful <hi>Europa's</hi> Dad?</l>
+               </sp>
+               <sp>
+                  <speaker>Notus.</speaker>
+                  <l>You are i'th' Right, 'tis ſhe I mean</l>
+                  <l>To ſpeak of now, (a pretty Quean)</l>
+                  <l>And you know <hi>Jove</hi> that Rampant Woer,</l>
+                  <l>Had long ſince a Months mind unto her:</l>
+                  <l>So far you're right, but what came on't,</l>
+                  <l>I'm ſure your'e wholly Ignorant:</l>
+                  <l>Yet I will tell thee, therefore put-on</l>
+                  <l>Grave Looks, while I the Tale unbutton:</l>
+                  <l>She be'ng one morn' on the Sea ſhore</l>
+                  <l>With her Play-fellows (ten or more)</l>
+                  <l>At Hide-and-ſeek, and Priſon-bace,</l>
+                  <l>Hot-cockles, Leap-frogg, and Clap-A—</l>
+                  <l>
+                     <hi>Jove</hi> came i'th' form of Milk-white-Bull,</l>
+                  <l>To VVheedle and Kidnap the Trull;</l>
+                  <l>Leaping and Cap'ring to delight her,</l>
+                  <l>And tame as any Lamb, t' envite her:</l>
+                  <l>VVhich ſhe obſerving, (ſtraight the Gull)</l>
+                  <l>Reſolves to back, and Ride the Bull:</l>
+                  <l>So on ſhe flings her ſelf a-ſtride,</l>
+                  <l>No ſooner pleas'd, but up and Ride;</l>
+                  <l>VVhen ſtraight the Bull with furious haſt</l>
+                  <l>Into the Briniſh <hi>Ocean</hi> daſht;</l>
+                  <l>VVhile ſhe with hand on's Horn did ſit,</l>
+                  <l>And lookt as if ſhe'd been beſh—</l>
+                  <l>The Wind blew ſo, ſhe had no fence,</l>
+                  <l>Nor Vaile to hide her <hi>Twenty-Pence:</hi>
+                  </l>
+                  <l>VVith head behind ſhe thus ſate bawling,</l>
+                  <l>And on her ſcar'd Companions calling.</l>
+               </sp>
+               <pb n="15" facs="tcp:137124:20"/>
+               <sp>
+                  <speaker>Zeph.</speaker>
+                  <l>Is this the Exc'lent Show (you Lout)</l>
+                  <l>VVhich you have made ſuch ſtir about?</l>
+                  <l>
+                     <hi>Jove</hi> turn'd a <hi>Bull,</hi> and on his back</l>
+                  <l>To Spirit away a ſilly Crack.</l>
+               </sp>
+               <sp>
+                  <speaker>Notus.</speaker>
+                  <l>You'll like it well I do not doubt,</l>
+                  <l>VVhen you have heard the Story out;</l>
+                  <l>For ſtraight the Winds left off their Clutter,</l>
+                  <l>The Foaming Ocean ceas'd to ſputter;</l>
+                  <l>So gen'ral was the Quiet Dreſs,</l>
+                  <l>Nature's whole ſelf ſeem'd Motionleſs;</l>
+                  <l>A Thouſand Cupids flutter'd round,</l>
+                  <l>(To grace the ſhow,) with Roſes Crown'd:</l>
+                  <l>Some cut the Air with nimble Motion,</l>
+                  <l>VVhile others Caper'd on the Ocean:</l>
+                  <l>So brisk and Airy ſtill they trod,</l>
+                  <l>There was not one of 'em wet-ſhod:</l>
+                  <l>And what was ſtrange, not one o'th' Hoſt faild,</l>
+                  <l>Tho not a Boy of 'em was Froſt-Nail'd:</l>
+                  <l>Some carry'd Links, (altho 'twas day)</l>
+                  <l>Others ſung Ballads all the way;</l>
+                  <l>As <hi>Colly-Cow,</hi> and th' <hi>Ladies fall,</hi>
+                  </l>
+                  <l>VVith <hi>Hey Boyes up go we</hi> (and all.)</l>
+                  <l>Next came a Troop of Gods o'th' Sea,</l>
+                  <l>With <hi>Oyſter-ſhells,</hi> Arm'd <hi>Capapea:</hi>
+                  </l>
+                  <l>The <hi>Nymphs</hi> too ſcorn'd to be behind,</l>
+                  <l>When ſuch a buſineſs was i'th' Wind.</l>
+                  <l>Theſe mixt together as they went,</l>
+                  <l>And made a motly Regiment.</l>
+                  <l>Each one upon a Fiſh did Ride,</l>
+                  <l>Or God, or Goddeſs, all a-ſtride;</l>
+                  <l>And 'twas a pretty ſight to ſee,</l>
+                  <l>Each <hi>Nereid</hi> naked to the Knee:</l>
+                  <l>But that which ſet me all on fire,</l>
+                  <l>Was when I ſaw—a litter higher:</l>
+                  <l>The <hi>Tritons</hi> too did there reſort,</l>
+                  <l>And play'd their tricks to make 'em ſport:</l>
+                  <l>
+                     <hi>Neptune</hi> and <hi>Amphitrite</hi> were there,</l>
+                  <l>T' attend their Brother <hi>Jupiter,</hi>
+                  </l>
+                  <l>To give the Bride, as 'tis the Faſhion</l>
+                  <l>On ſuch Occaſions, in that Nation:</l>
+                  <l>But one thing I forgot to tell,</l>
+                  <l>
+                     <hi>Venus</hi> was there too, in her Shell,</l>
+                  <l>By <hi>Tritons</hi> drawn, enough to ſcare one,</l>
+                  <l>Scattering of Flowers, on the Fair one:</l>
+                  <l>Briskly in faith ſhe lay'd about her,</l>
+                  <l>The ſight had nothing been without her</l>
+                  <l>Thus <hi>Jove</hi> Travel'd with his ſweet one,</l>
+                  <l>From off <hi>Phenicia</hi> to <hi>Crete</hi> on:</l>
+                  <pb n="16" facs="tcp:137124:21"/>
+                  <l>When ſtraight he chang'd his Beaſtly ſhapes,</l>
+                  <l>And lookt a God; at which the Trapes</l>
+                  <l>To ſee him thus ſo finely 'quipt,</l>
+                  <l>Lookt juſt as if ſhe had been Whipt:</l>
+                  <lg type="triplet">
+                     <l>Then to the private Cave <hi>Dutean,</hi>
+                     </l>
+                     <l>He lead the ſilly bluſhing <hi>Quean,</hi>
+                     </l>
+                     <l>And did—<hi>You know, you know what I mean.</hi>
+                     </l>
+                  </lg>
+                  <l>At which the Sea Gods all went home,</l>
+                  <l>The Winds too blew, the Sea did Roam;</l>
+                  <l>All that did thither then reſort,</l>
+                  <l>Withdrew and left 'em to their Sport.</l>
+               </sp>
+               <sp>
+                  <speaker>Zeph.</speaker>
+                  <lg type="triplet">
+                     <l>I envy thee, (by this good Light)</l>
+                     <l>The Pleaſure of this Pleaſant Sight,</l>
+                     <l>Which but related gives Delight.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>LUcian's Dialogues, <hi>done into</hi> Engliſh Burleſque, <hi>the Firſt Part: Printed for</hi> William Bateman, <hi>next the</hi> Kings Head Inn, <hi>in the</hi> Old-Change. 1684.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137124:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
